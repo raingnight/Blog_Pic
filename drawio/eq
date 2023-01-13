@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T12:15:01.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.6.0" etag="tE4ZgWyG4wUoaVFu8isE" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-13T12:39:05.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.6.0" etag="xZ8IvlIuY8ITm6EWdgj0" type="github" pages="4">
   <diagram id="gDjBLCoQJbe5jDqAaosb" name="第 1 页">
     <mxGraphModel dx="1117" dy="657" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="7T8Q20ZJ7zKecv51rgmf-100" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="7T8Q20ZJ7zKecv51rgmf-52" target="7T8Q20ZJ7zKecv51rgmf-76">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Of-E4twSV1-giTTK8oxg-1" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 20px; font-weight: 400; text-align: start;&quot;&gt;数据采集器&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;sketch=1;fillStyle=solid;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="86" width="247" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
