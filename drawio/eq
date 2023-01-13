@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T11:09:08.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.6.0" etag="e6ti-vu-xxITqqWPyKK8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T11:13:42.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.6.0" etag="3CFzZrNAsMGnRPBziHBu" type="github" pages="2">
   <diagram id="gDjBLCoQJbe5jDqAaosb" name="第 1 页">
     <mxGraphModel dx="782" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="7T8Q20ZJ7zKecv51rgmf-78" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="75" y="90" width="650" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="7T8Q20ZJ7zKecv51rgmf-84" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="7T8Q20ZJ7zKecv51rgmf-84" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="120" width="600" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7T8Q20ZJ7zKecv51rgmf-81" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fillColor=#ffcc99;" vertex="1" parent="7T8Q20ZJ7zKecv51rgmf-84">
+        <mxCell id="7T8Q20ZJ7zKecv51rgmf-81" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="7T8Q20ZJ7zKecv51rgmf-84">
           <mxGeometry width="600" height="230" as="geometry" />
         </mxCell>
         <mxCell id="7T8Q20ZJ7zKecv51rgmf-80" value="" style="group" vertex="1" connectable="0" parent="7T8Q20ZJ7zKecv51rgmf-84">
@@ -39,7 +39,7 @@
         <mxCell id="7T8Q20ZJ7zKecv51rgmf-73" value="" style="group" vertex="1" connectable="0" parent="7T8Q20ZJ7zKecv51rgmf-80">
           <mxGeometry width="380" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7T8Q20ZJ7zKecv51rgmf-72" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;sketch=0;fillColor=#bac8d3;strokeColor=#23445d;fillStyle=auto;shadow=1;glass=0;" vertex="1" parent="7T8Q20ZJ7zKecv51rgmf-73">
+        <mxCell id="7T8Q20ZJ7zKecv51rgmf-72" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;sketch=0;fillColor=#b0e3e6;strokeColor=#0e8088;fillStyle=auto;shadow=1;glass=0;" vertex="1" parent="7T8Q20ZJ7zKecv51rgmf-73">
           <mxGeometry width="380" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7T8Q20ZJ7zKecv51rgmf-54" value="&lt;font color=&quot;#000000&quot;&gt;实时数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fillColor=#ffcccc;strokeColor=#36393d;glass=0;shadow=1;" vertex="1" parent="7T8Q20ZJ7zKecv51rgmf-73">
@@ -156,6 +156,14 @@
         <mxCell id="7T8Q20ZJ7zKecv51rgmf-100" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="7T8Q20ZJ7zKecv51rgmf-52" target="7T8Q20ZJ7zKecv51rgmf-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JROBjYIClgufwYYNCfEZ" name="第 2 页">
+    <mxGraphModel dx="782" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
