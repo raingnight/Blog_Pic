@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T09:06:52.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MFPYmnC_xElz4pz66L9k" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-02T09:14:07.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="CvxmetMpyGyd63akZ1yY" version="20.8.23" type="github" pages="4">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1866" dy="771" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1064,106 +1064,112 @@
           <mxGeometry x="98" y="956" width="1164" height="61" as="geometry" />
         </mxCell>
         <mxCell id="1uGABc-HdG3guXmypirj-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=19;fontFamily=Times New Roman;fillColor=none;strokeColor=default;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="107" y="1080" width="383" height="560" as="geometry" />
+          <mxGeometry x="126" y="1080" width="364" height="539" as="geometry" />
         </mxCell>
         <mxCell id="1uGABc-HdG3guXmypirj-6" value="" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=19;fontFamily=Times New Roman;fillColor=none;strokeColor=default;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1080" width="383" height="560" as="geometry" />
+          <mxGeometry x="490" y="1080" width="383" height="539" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-7" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=19;fontFamily=Times New Roman;fillColor=none;strokeColor=default;verticalAlign=middle;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="873" y="1080" width="383" height="560" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-7" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=19;fontFamily=Times New Roman;fillColor=none;strokeColor=default;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="873" y="1080" width="372" height="539" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-9" value="获取最近 N 次数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="146" y="1106.32" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-9" value="获取最近 N 次数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1106.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-10" value="获取事件记录" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="146" y="1336.32" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-10" value="获取事件记录" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1336.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-12" value="获取距今天前 N 天的数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="146" y="1183.32" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-12" value="获取距今天前 N 天的数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1183.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-13" value="补数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="146" y="1221.32" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-13" value="补数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1221.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-14" value="WebSocket实时数据传输" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="146" y="1259.32" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-14" value="WebSocket实时数据传输" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1259.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-15" value="MQTT实时数据传输" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="146" y="1298.32" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-15" value="MQTT实时数据传输" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1298.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-16" value="获取最近 N 秒/分钟/小时的数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="146" y="1144.32" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-16" value="获取最近 N 秒/分钟/小时的数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1144.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-17" value="获取设备状态信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-17" value="获取设备状态信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1106.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-18" value="获取设备运行状态信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-18" value="获取设备运行状态信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1143.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-19" value="获取设备自定义状态信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-19" value="获取设备自定义状态信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1179.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-20" value="获取设备告警信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-20" value="获取设备告警信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1216.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-21" value="设备告警信息实时推送" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-21" value="设备告警信息实时推送" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1253.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-22" value="获取设备网络参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-22" value="获取设备网络参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1289.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-23" value="获取设备表述参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-23" value="获取设备表述参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1326.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-24" value="获取设备测量参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-24" value="获取设备测量参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1363.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-25" value="获取设备属性信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-25" value="获取设备属性信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1399.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-26" value="获取日志记录" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="1uGABc-HdG3guXmypirj-26" value="获取日志记录" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="1436.32" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-29" value="设置设备网络参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1092.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-29" value="设置设备网络参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1092.5" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-30" value="设置设备表述参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1137.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-30" value="设置设备表述参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1133" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-31" value="设置设备测量参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1183.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-31" value="设置设备测量参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1173" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-32" value="设备复位" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1228.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-32" value="设备复位" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1213" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-33" value="重启设备" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1274.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-33" value="重启设备" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1253" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-34" value="开启或关闭设备自校准" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1319.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-34" value="开启或关闭设备自校准" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1293" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-35" value="开启或关闭设备凋零" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1365.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-35" value="开启或关闭设备凋零" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1333" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-36" value="开启或关闭时钟自动校准" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1410.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-36" value="开启或关闭时钟自动校准" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1373" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-37" value="更新设备固件代码" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1456.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-37" value="更新设备固件代码" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1414" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-38" value="设置校时方式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1501.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-38" value="设置校时方式" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1454" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-39" value="自定义控制功能" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1592.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-39" value="自定义控制功能" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1534" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1uGABc-HdG3guXmypirj-40" value="设置时钟" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="919.5" y="1547.5" width="290" height="30" as="geometry" />
+        <mxCell id="1uGABc-HdG3guXmypirj-40" value="设置时钟" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="912" y="1494" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1uGABc-HdG3guXmypirj-2" value="状态流" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="475" y="1027.68" width="405" height="46" as="geometry" />
         </mxCell>
         <mxCell id="1uGABc-HdG3guXmypirj-3" value="控制流" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="841" y="1027.68" width="405" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="1uGABc-HdG3guXmypirj-8" value="获取设备位置信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="1476" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1uGABc-HdG3guXmypirj-27" value="设置设备位置信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=20;flipH=1;flipV=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="912" y="1574" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
