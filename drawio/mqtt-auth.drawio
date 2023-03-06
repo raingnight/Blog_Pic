@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T10:07:27.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="uBklwGNyFZa1-kSgf9du" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T10:09:32.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Qw6mG8W7e69z5g6pyQfV" version="20.8.23" type="github">
   <diagram name="第 1 页" id="2depREerfcmBq1PA4sxw">
     <mxGraphModel dx="993" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,14 +42,17 @@
         <mxCell id="1cNgrbimQZvX6vLDxFEA-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;CONNACK&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;align=center;verticalAlign=middle;fontColor=#479dc2;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="290" y="470" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1cNgrbimQZvX6vLDxFEA-14" value="Authentication Result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="1cNgrbimQZvX6vLDxFEA-14" value="Authentication Result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;labelBackgroundColor=default;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1cNgrbimQZvX6vLDxFEA-15" value="生产者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="93.45" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1cNgrbimQZvX6vLDxFEA-17" value="MQTT&lt;br&gt;服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="504.75" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="570" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1cNgrbimQZvX6vLDxFEA-18" value="Authentication Info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;labelBackgroundColor=default;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
