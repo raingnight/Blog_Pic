@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T09:32:21.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="3jv1kBV1tsnYwjjzY7Ra" version="21.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-08T09:39:55.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="JqrM095ZeTJBvpkdMgql" version="21.0.2" type="github" pages="5">
   <diagram name="第 1 页" id="2depREerfcmBq1PA4sxw">
     <mxGraphModel dx="1034" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="ArV1YXihxHGkohj6mO76-3" value="&lt;h1&gt;消息发布&lt;/h1&gt;&lt;p&gt;设备端在与MQTT服务端建立连接后，如果采集到数据则将数据发布到指定的主题中。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="22" y="541" width="190" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="foiveuPHL2XUtKiyAhwP-1" value="&lt;h1&gt;等待订阅&lt;/h1&gt;&lt;p&gt;MQTT服务端接收到数据后，会在接收端订阅主题成功后，将接收到的数据推送给接收端&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="foiveuPHL2XUtKiyAhwP-1" value="&lt;h1&gt;等待订阅&lt;/h1&gt;&lt;p&gt;MQTT服务端接收到数据后，会在接收控制端订阅主题成功后，将接收到的数据推送给接收控制端&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="667" y="600" width="190" height="103" as="geometry" />
         </mxCell>
       </root>
@@ -120,8 +120,8 @@
         <mxCell id="sBLDZ6kfOL8sw0q32bDc-8" value="Authentication Result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;labelBackgroundColor=default;fontColor=#56a8f5;" parent="1" vertex="1">
           <mxGeometry x="350" y="530" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sBLDZ6kfOL8sw0q32bDc-9" value="接收端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="199" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="sBLDZ6kfOL8sw0q32bDc-9" value="接收控制端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="199" y="260" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBLDZ6kfOL8sw0q32bDc-10" value="MQTT&lt;br&gt;服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="618" y="252" width="90" height="30" as="geometry" />
@@ -159,13 +159,13 @@
         <mxCell id="r4T5hAZ9-SewZBfxQMuh-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;/${subject}/${stationId}/${instruId}/realTimeData&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0000fa;" parent="1" vertex="1">
           <mxGeometry x="233.25" y="677" width="403.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z4b0JknSPUZVgbS1KYTT-1" value="&lt;h1&gt;发起连接&lt;/h1&gt;&lt;p&gt;接收端携带身份认证信息向MQTT服务端发起连接请求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="z4b0JknSPUZVgbS1KYTT-1" value="&lt;h1&gt;发起连接&lt;/h1&gt;&lt;p&gt;接收控制端携带身份认证信息向MQTT服务端发起连接请求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="22" y="423" width="190" height="87" as="geometry" />
         </mxCell>
         <mxCell id="zIvt_Sn-eym9dw37zfNO-1" value="&lt;h1&gt;身份认证&lt;/h1&gt;&lt;p&gt;MQTT服务端接收到连接请求后，将请求中携带的身份认证信息读取出来进行处理并返回认证结果。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="423" width="190" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="4-n2MVClZC4o208nzzvL-1" value="&lt;h1&gt;订阅主题&lt;/h1&gt;&lt;p&gt;接收端在与MQTT服务端建立连接后，向MQTT服务端发出订阅请求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4-n2MVClZC4o208nzzvL-1" value="&lt;h1&gt;订阅主题&lt;/h1&gt;&lt;p&gt;接收控制端在与MQTT服务端建立连接后，向MQTT服务端发出订阅请求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="19" y="595" width="190" height="103" as="geometry" />
         </mxCell>
         <mxCell id="-dH9_70OctwhYvOiZ5m_-2" style="edgeStyle=none;curved=1;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
@@ -177,7 +177,7 @@
         <mxCell id="-dH9_70OctwhYvOiZ5m_-3" value="&lt;div style=&quot;text-align: center;&quot;&gt;SUBACK&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;align=center;verticalAlign=middle;fontColor=#FF0000;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="317.75" y="731" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-dH9_70OctwhYvOiZ5m_-4" value="&lt;h1&gt;响应订阅结果&lt;/h1&gt;&lt;p&gt;MQTT服务端接收到请阅请求后，返回订阅结果，如果订阅成功，则以后订阅成功的主题中收到数据时会主动推送给接收端&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-dH9_70OctwhYvOiZ5m_-4" value="&lt;h1&gt;响应订阅结果&lt;/h1&gt;&lt;p&gt;MQTT服务端接收到请阅请求后，返回订阅结果，如果订阅成功，则以后订阅成功的主题中收到数据时会主动推送给接收控制端&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="666" y="652" width="190" height="114" as="geometry" />
         </mxCell>
       </root>
@@ -370,8 +370,8 @@
         <mxCell id="Wd8KponW7r4oAhwejM-3-7" value="Authentication Result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;labelBackgroundColor=default;fontColor=#56a8f5;" parent="1" vertex="1">
           <mxGeometry x="777.5" y="530" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wd8KponW7r4oAhwejM-3-8" value="接收端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="Wd8KponW7r4oAhwejM-3-8" value="接收控制端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wd8KponW7r4oAhwejM-3-10" value="Authentication Info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;labelBackgroundColor=default;fontColor=#56a8f5;" parent="1" vertex="1">
           <mxGeometry x="777.5" y="420" width="190" height="30" as="geometry" />
@@ -442,19 +442,19 @@
         <mxCell id="kvFkK-jQf0iINQIYmQAJ-1" value="&lt;h1&gt;1、发起连接&lt;/h1&gt;&lt;p&gt;设备端携带身份认证信息向MQTT服务端发起连接请求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="22" y="423" width="190" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="kvFkK-jQf0iINQIYmQAJ-2" value="&lt;h1&gt;2、发起连接&lt;/h1&gt;&lt;p&gt;接收端携带身份认证信息向MQTT服务端发起连接请求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kvFkK-jQf0iINQIYmQAJ-2" value="&lt;h1&gt;2、发起连接&lt;/h1&gt;&lt;p&gt;接收控制端携带身份认证信息向MQTT服务端发起连接请求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="423" width="190" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="kvFkK-jQf0iINQIYmQAJ-3" value="&lt;h1&gt;4、订阅请求&lt;/h1&gt;&lt;p&gt;设备端向MQTT服务端订阅请求主题，订阅成功后可以接收到接收端发布的请求指令&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kvFkK-jQf0iINQIYmQAJ-3" value="&lt;h1&gt;4、订阅请求&lt;/h1&gt;&lt;p&gt;设备端向MQTT服务端订阅请求主题，订阅成功后可以接收到接收控制端发布的请求指令&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="670" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kvFkK-jQf0iINQIYmQAJ-6" value="&lt;h1&gt;3、发布请求&lt;/h1&gt;&lt;p&gt;接收端向MQTT服务端中的请求主题发布请求指令&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kvFkK-jQf0iINQIYmQAJ-6" value="&lt;h1&gt;3、发布请求&lt;/h1&gt;&lt;p&gt;接收控制端向MQTT服务端中的请求主题发布请求指令&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="599" width="190" height="87" as="geometry" />
         </mxCell>
         <mxCell id="kvFkK-jQf0iINQIYmQAJ-7" value="&lt;h1&gt;5、发布响应&lt;/h1&gt;&lt;p&gt;设备端在对接收到的请求进行处理之后，将处理之后的结果发布到响应的主题中&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="849" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="kvFkK-jQf0iINQIYmQAJ-8" value="&lt;h1&gt;6、订阅响应&lt;/h1&gt;&lt;p&gt;接收端向MQTT服务器订阅响应主题，订阅成功之后可以接收到设备端发布的响应数据&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kvFkK-jQf0iINQIYmQAJ-8" value="&lt;h1&gt;6、订阅响应&lt;/h1&gt;&lt;p&gt;接收控制端向MQTT服务器订阅响应主题，订阅成功之后可以接收到设备端发布的响应数据&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1120" y="830" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d3xamEMVtM8nDqtIMDkh-1" style="edgeStyle=none;curved=1;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
