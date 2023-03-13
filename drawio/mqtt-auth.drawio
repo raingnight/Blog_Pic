@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T05:53:17.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lFjT4twWEQqyqBSw4DoN" version="21.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-13T06:22:05.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="yBSTpNEADXPb_R9HpoJs" version="21.0.6" type="github" pages="7">
   <diagram name="第 1 页" id="2depREerfcmBq1PA4sxw">
     <mxGraphModel dx="1006" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -968,11 +968,8 @@
             <mxPoint x="520" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REX_oljrQcw1DYERw5_n-1" value="连接MQTT Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="REX_oljrQcw1DYERw5_n-1" value="连接MQTT Server时进行身份认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="1130" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="REX_oljrQcw1DYERw5_n-2" value="连接MQTT Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jrW2KeoCE4JuMlEAyLqO-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1085,7 +1082,7 @@
         <mxCell id="4EZ-zxh_dAON5lEUK9Ml-15" value="接收指令处理结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="1420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7f4c3U3jzfe1BVM6Sf9P-6" value="建立连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7f4c3U3jzfe1BVM6Sf9P-6" value="身份认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7f4c3U3jzfe1BVM6Sf9P-7" value="实时传输" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1120,6 +1117,9 @@
         </mxCell>
         <mxCell id="7f4c3U3jzfe1BVM6Sf9P-15" value="定时测量传输" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="1295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7f4c3U3jzfe1BVM6Sf9P-16" value="连接MQTT Server时进行身份认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1130" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
