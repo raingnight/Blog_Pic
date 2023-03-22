@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T12:02:54.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NYPe5yL1qtJ_VioImX-t" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-22T14:28:30.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="R1Z4kx0X_byQky7ANmoC" version="21.0.6" type="github" pages="2">
   <diagram name="第 1 页" id="b3_0Xu7LdXlCwGd5m9_m">
-    <mxGraphModel dx="798" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d4cdd4;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="640" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="wZVojM2eIhYD14Y_7No4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#94c8d4;strokeColor=none;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="310" width="160" height="220" as="geometry" />
         </mxCell>
@@ -21,9 +24,6 @@
         </mxCell>
         <mxCell id="wZVojM2eIhYD14Y_7No4-14" value="智能合约脚本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#64b5f6;strokeColor=#FFFFFF;fontColor=#000000;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="404" y="560" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wZVojM2eIhYD14Y_7No4-16" value="智能合约模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#64b5f6;strokeColor=#FFFFFF;fontColor=#000000;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="301" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wZVojM2eIhYD14Y_7No4-33" value="DID管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00bcd4;strokeColor=#FFFFFF;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="415" width="110" height="40" as="geometry" />
@@ -126,6 +126,48 @@
             <mxPoint x="755" y="450" as="sourcePoint" />
             <mxPoint x="735" y="581" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-5" style="edgeStyle=none;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;shadow=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=#000000;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="560" />
+            </Array>
+            <mxPoint x="320" y="650" as="sourcePoint" />
+            <mxPoint x="275" y="514.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="410" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-16" value="智能合约模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#64b5f6;strokeColor=#FFFFFF;fontColor=#000000;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="301" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-7" value="平&lt;br style=&quot;font-size: 12px;&quot;&gt;台&lt;br style=&quot;font-size: 12px;&quot;&gt;应&lt;br style=&quot;font-size: 12px;&quot;&gt;用&lt;br style=&quot;font-size: 12px;&quot;&gt;层" style="rounded=1;fillStyle=solid;fillColor=#b0e3e6;strokeColor=#0e8088;glass=0;shadow=0;direction=south;fontSize=12;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="40" height="288.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-8" style="edgeStyle=none;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;shadow=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=#000000;curved=1;exitX=0.063;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="593" y="480" />
+            </Array>
+            <mxPoint x="603" y="560" as="sourcePoint" />
+            <mxPoint x="623" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-9" value="&lt;font color=&quot;#000000&quot;&gt;应用服务层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;flipH=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8RlcvJEMYQ2abXcP0kt-10" value="&lt;font color=&quot;#000000&quot;&gt;基础设施层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#ffcccc;strokeColor=#36393d;glass=0;shadow=0;flipH=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="170" y="614" width="40" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
