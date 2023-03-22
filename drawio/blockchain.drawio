@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T01:59:42.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zUn5mljCORdvjD_7yUas" version="21.0.6" type="github"><diagram name="第 1 页" id="b3_0Xu7LdXlCwGd5m9_m">7Vpdk5s2FP01ekwGISSjRzB2k4d0OrOddtKXHWq0WC1GDmbX3vz6XIGw+dBO3Zl4rXjzguUjIeCcw9WVBCLzzeGXKt2uP6lMFMj3sgMiCfL9GQ/gqIHnFqCYtUBeyayF8Am4k1+FAT2DPspM7AYNa6WKWm6H4EqVpVjVAyytKrUfNntQxfCq2zQXE+BulRZT9E+Z1WuD+p53qvggZL7uLs19U7NJu9YG2K3TTO17EFkgMq+UqtvS5jAXhSavI6Y9b/lC7fHOKlHW55yw/+sP9c8nX3xcf05w8Pl+9qsK3hk1ntLi0Tyxudn6uaOgUo9lJnQnHiLxfi1rcbdNV7p2D5oDtq43BfzDUDTdiaoWhxfvEx+fHmwj1EbU1TM0MSccCTOWIZ0X9j0BmMHWPe6PJ6ZG9PzY94kWKBhm/gdLxHefJkqnNFEbTexSLGH3SWI+eU+vTJPFSwuKwjmKI13gCeIztOCIExQvJgwCF/WQpl1dqX/FXBWqAqRUJbSMH2RRjKC0kHkJf1fAnQA81sxKCHWRqdjILNOXseoyVO47SIPJSBoSWqSxKUMupUxgUSZEcYAihhYMhVAGZWYoWqAI6wL3UMiub/KADgMmswRMbCEyuBSR1Gpxzda8IRIKuDF9hCJPF6Kljcjb8Tobet23DGnWEY1eSKDQvVDN6Gg8s7iYv6aJucXEDHHexOkQhRCek87WoY4GgEc3bGLG6Eig2ZkB+2I27l4jp3w8SjnwbEoS9l81L7MkZjq/iFHMmlFsiSKqLd1GYVPAjdvB5zecg9BRzMHhtQ3t4ESDjica1w7MmPyMzEOFiHuR2ZJLX9vIhLtm5Bfy5Nj418TjZsKh54QMxQRxertGDjz3jOziCplrqTKeWY0Mo2mMe4nF2zGy716u7J+xPJfutu0i+oM8aDriragkXF4zmsA15HYnfjtBfaEmAhyXuzWlWbpbH/ndAfmyzH9XQH1CAJCbZhW++03kJodHLOTfcExXtXwS95ms4M6U5mGZixLuYXVfqky83z3l30my2XipkE8Eo7aXil9KsDNywbcsGOOuCWbJS38K1ktTPdcEOyNJfcuCkZC6JRixjWGs0DnDg4Jn6ivHvjyqruLdrtlYjqCBH2wPDTtdPZRy85tudDLQdIfmvl7s7x+7+q51285ftlfuOrnVjIaOo+31t2vINN4mH5MfYIMmwNP36HU3aMgLW12QswdNeh5p6nTmDkwGpyVB55hkV2fSPocPl5qxRYDiZWPFsFmDihuknd4H+shJszxFNHizocOno/1J/7zp6uUCh4Nz+mCUHLnw1YttVs8Rb2MDRNlZs0sQnsJtO72/OpW+a/vhxLLfOl0NgUIUNkxSxBcojB0cysbcOjCU2fZp2ygbd98Y4B+ByasPZV3H/zGUMe3V2Gs+5Eg0q29oKAvIqw1l8Pf0bWhT1/vCliy+AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-22T02:07:19.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="cTnEDlBZti0m_wzf2AnX" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="b3_0Xu7LdXlCwGd5m9_m">
+    <mxGraphModel dx="794" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wZVojM2eIhYD14Y_7No4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="310" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="550" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="623.5" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-2" value="区块链" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="638.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-4" value="账户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-9" value="共识机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="675" y="567.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-13" value="分布式账本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="567.5" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-15" value="智能合约脚本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="405" y="567.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-17" value="智能合约模板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="567.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-21" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;" parent="1" vertex="1">
+          <mxGeometry x="270" y="629" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-22" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;" parent="1" vertex="1">
+          <mxGeometry x="690" y="629" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-23" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;" parent="1" vertex="1">
+          <mxGeometry x="500" y="629" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-24" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;" parent="1" vertex="1">
+          <mxGeometry x="385" y="629" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;lt;···&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="638.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-33" value="DID管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="419" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-34" value="资源认证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="469" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-35" value="可信身份体系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="310" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-37" value="隐私计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-38" value="算法模型管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-39" value="同态加密" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="438" width="110" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wZVojM2eIhYD14Y_7No4-40" value="可信数据体系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="455" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-2" value="合约注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-3" value="合约模型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="410" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-4" value="合约生命周期管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="459" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-5" value="智能合约平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-7" value="零知识证明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="478" width="110" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mcFrY3Fphxi_9Jy5Wu13-9" value="账户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
