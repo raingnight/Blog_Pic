@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T03:52:56.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Qrun4qsVuVT9ZfG6t-gb" version="21.0.10" type="github"><diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">zZbRbpswFIaf5lwyAQZiX+KErNO0Vlo0TdqdFxxABUzBWZI9/WzjEGjo1Err2pvk8J9jbH/+bQNoWR0/tqzJv4iUl+C76RHQCnx/QQL1q4VTL4Re1AtZW6S95F2ETfGbW9G16r5IeTcplEKUsmim4lbUNd/KicbaVhymZTtRTnttWMavhM2Wldfq9yKVuVV9170kbniR5eeuiW8zFTtXW6HLWSoOIwklgJatELKPquOSlxreGUzfbv1EdhhZy2v5nAZRE9493AenT0GBm3vHvROfHxzUv+UXK/d2xpCEECeACSQYYgQ41ApemiAC6gINjLLSsVJ0jQnIGuLQzlWezgRbsa9TrsfgAqKHvJB807Ctzh6UZZSWy6pUT54K7Wh4K/nxyWl6AzzlOi4qLtuTKrENwoXlbR3nnZ8Pl/UjVspHKxdZjVnHZMObL0xVYLG+AHFwjfitGQ2etIz8GUZBOANpIPfPKUWzRsSR9V8cAIkgWQBdAfEgIcZ2iQ6IiolOxStbQ8L3YESPPDIieibkV3PiYobxLEgMmGrqNAa8NufAGqin97ja9eQdoEXhFC154z2OZ/Z4VKpeadewegIretjrE5/uRC2dzlx4sed/cJtB3LGqKNXMYkgCoBTo+nwmU4NPbRXkadBVJ5yfRVo4z2ima03ZPW/ros50r7ZTnWJ1Vzglq7O9uRDj5Nb5trnubaeWiHVyXPnjxlnejgczysVfnU18mbKKMvP/t5290G6M+7H7gJG2H1aejLVF1UWDfetM9WmhW1HA2JiW6laWulrEHrzt8LFhlfXkf3EqCh+dtMG1U4cbamxV9FpWJTOHgLq7kd7a2jhqFZYGLNJse8LqZn/rLa8u9gnIyJ05TYPwGmT4cpDq8fJZZnKjj1uU/AE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-27T02:27:34.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="h49WIQnnFhbzgIk_gQ-q" version="21.1.0" type="github">
+  <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6p5Oqk4yI4i8pk-0OoKq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="220" y="340" width="560" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6p5Oqk4yI4i8pk-0OoKq-3" value="安装包水印检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+          <mxGeometry x="660" y="360" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6p5Oqk4yI4i8pk-0OoKq-6" value="内外网智能识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="242.5" y="500" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6p5Oqk4yI4i8pk-0OoKq-8" value="&lt;span style=&quot;font-size:12.0pt;font-family:仿宋;&#xa;mso-bidi-font-family:仿宋;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;内外网环境自适应终端&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="415" y="310" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6p5Oqk4yI4i8pk-0OoKq-9" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="220" y="570" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3Pd6ixgc_Sjc1uyxyP-2" value="内网策略沙箱" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3Pd6ixgc_Sjc1uyxyP-3" value="外网策略沙箱" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3Pd6ixgc_Sjc1uyxyP-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="360" width="410" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3Pd6ixgc_Sjc1uyxyP-7" value="DNS 黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="260" y="405" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3Pd6ixgc_Sjc1uyxyP-9" value="伪造DNS响应" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="260" y="367" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3Pd6ixgc_Sjc1uyxyP-10" value="DNS响应" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="367" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wP3Pd6ixgc_Sjc1uyxyP-11" value="DNS 白名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="405" width="170" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
