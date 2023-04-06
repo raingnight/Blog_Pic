@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T14:45:38.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="560P2MJqRmqT8nAzhESQ" version="21.1.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-06T14:49:14.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ASgBkqaKYq9v7cBfzFEE" version="21.1.4" type="github" pages="5">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -210,10 +210,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="440" height="190" as="geometry" />
+          <mxGeometry x="230" y="300" width="440" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-2" value="数据服务成效评估原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="412" width="388" height="60" as="geometry" />
+        <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="429" width="388" height="142" as="geometry" />
         </mxCell>
         <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-3" value="数据服务成效测算依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="370" width="389" height="26" as="geometry" />
@@ -232,6 +232,27 @@
             <mxPoint x="449.5" y="426" as="sourcePoint" />
             <mxPoint x="449.5" y="396" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YkPbzBmc0NhDJTNt74BW-1" value="数据服务成效评估原则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="442" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPbzBmc0NhDJTNt74BW-2" value="目标导向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="491" width="71" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPbzBmc0NhDJTNt74BW-3" value="客观公正" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="487.5" width="71" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPbzBmc0NhDJTNt74BW-4" value="综合性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="487.5" width="71" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPbzBmc0NhDJTNt74BW-5" value="可比性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="528" width="71" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPbzBmc0NhDJTNt74BW-6" value="可操作性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="528" width="71" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPbzBmc0NhDJTNt74BW-7" value="循环迭代" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="528" width="71" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
