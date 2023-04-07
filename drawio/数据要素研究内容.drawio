@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T01:47:03.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-nqVExDs8fFStozd82y_" version="21.1.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-07T01:57:25.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="sYIzkSxmW-HvBZeGy72-" version="21.1.4" type="github" pages="5">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -305,16 +305,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O1K3az85Qd6WlBK4lbBU-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="152" width="385" height="327" as="geometry" />
+          <mxGeometry x="125" y="152" width="385" height="585" as="geometry" />
         </mxCell>
         <mxCell id="O1K3az85Qd6WlBK4lbBU-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="148" y="378" width="332" height="81" as="geometry" />
+          <mxGeometry x="155" y="494" width="332" height="239" as="geometry" />
         </mxCell>
-        <mxCell id="O1K3az85Qd6WlBK4lbBU-1" value="影响利益分配的关键因素分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="390" width="145" height="60" as="geometry" />
+        <mxCell id="O1K3az85Qd6WlBK4lbBU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="506" width="145" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="O1K3az85Qd6WlBK4lbBU-3" value="创新主体满意度分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="158" y="390" width="139" height="60" as="geometry" />
+        <mxCell id="O1K3az85Qd6WlBK4lbBU-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="506" width="139" height="218" as="geometry" />
         </mxCell>
         <mxCell id="O1K3az85Qd6WlBK4lbBU-4" value="创新主体贡献评价指标体系构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147" y="287" width="336" height="60" as="geometry" />
@@ -328,11 +328,44 @@
             <mxPoint x="310" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O1K3az85Qd6WlBK4lbBU-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="O1K3az85Qd6WlBK4lbBU-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;width=36;endSize=6.67;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="308" y="385" as="sourcePoint" />
-            <mxPoint x="308" y="345" as="targetPoint" />
+            <mxPoint x="318.5" y="492" as="sourcePoint" />
+            <mxPoint x="318.5" y="452" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-1" value="影响利益分配的关键因素分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="514" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="564" width="120" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-3" value="固定性因素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="564" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-4" value="投入比重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="589" width="90" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-5" value="风险承担系数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="615" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="662" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-8" value="结果性因素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="662" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-6" value="贡献评价情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="692" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-10" value="创新主体满意度分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="514" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-12" value="满意度对价值共创的影响" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="566" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yLg1cejTIcvuafoQyrWp-13" value="满意度随项目进度的变换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="652" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
