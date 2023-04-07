@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T01:38:45.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="uoBhpzyhFZ9x0-pq9Gl0" version="21.1.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-07T01:45:23.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="9tDnekSh_EltWaC6T9OK" version="21.1.4" type="github" pages="5">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="235" width="440" height="351" as="geometry" />
+          <mxGeometry x="230" y="136" width="437" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="429" width="388" height="142" as="geometry" />
@@ -218,8 +218,8 @@
         <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="320" width="389" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-4" value="数据服务成效评估要素指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="258" width="388" height="30" as="geometry" />
+        <mxCell id="Ci5qK5TxvVgjvJ_Y8LUr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="166" width="388" height="122" as="geometry" />
         </mxCell>
         <mxCell id="jgd4npaMq_WGXVJaTw1p-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -274,6 +274,27 @@
         </mxCell>
         <mxCell id="HbZH4Qxk_LfgCTZmTdlY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HbZH4Qxk_LfgCTZmTdlY-4" target="HbZH4Qxk_LfgCTZmTdlY-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbZH4Qxk_LfgCTZmTdlY-9" value="数据服务成效评估要素指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="373" y="173" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HbZH4Qxk_LfgCTZmTdlY-12" value="论文、软著数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="222" width="103" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HbZH4Qxk_LfgCTZmTdlY-13" value="专利、标准数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="218" width="96" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="HbZH4Qxk_LfgCTZmTdlY-14" value="人均科研成果数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="215.5" width="101" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="HbZH4Qxk_LfgCTZmTdlY-15" value="常规服务总量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="254" width="101" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="HbZH4Qxk_LfgCTZmTdlY-16" value="人均科研经费数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="254" width="101" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="HbZH4Qxk_LfgCTZmTdlY-17" value="·······" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499" y="252" width="101" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
