@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T09:57:26.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="HVX2TSCX4cMyAVcDdO9C" version="21.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-07T10:23:01.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="swlqhhCDbFXZWMWUDYxJ" version="21.1.5" type="github" pages="7">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -383,7 +383,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hRPObTGPPm4JDeJrtqaV" name="第 6 页">
-    <mxGraphModel dx="794" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,7 +399,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krvADRZYaVkg0urQ2bMG-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="20" y="195" width="100" height="50" as="geometry" />
+          <mxGeometry x="30" y="195" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="krvADRZYaVkg0urQ2bMG-2" target="Itc_XxCuijJgZ4YeyL3W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krvADRZYaVkg0urQ2bMG-2" target="Itc_XxCuijJgZ4YeyL3W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krvADRZYaVkg0urQ2bMG-2" target="Itc_XxCuijJgZ4YeyL3W-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krvADRZYaVkg0urQ2bMG-2" value="价值共创模式特征研究" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
@@ -407,8 +416,94 @@
         <mxCell id="krvADRZYaVkg0urQ2bMG-3" value="价值共创模式运行机制研究" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krvADRZYaVkg0urQ2bMG-4" target="Itc_XxCuijJgZ4YeyL3W-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krvADRZYaVkg0urQ2bMG-4" target="Itc_XxCuijJgZ4YeyL3W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="krvADRZYaVkg0urQ2bMG-4" value="多主体价值共创模式框架研究" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-5" value="多元主体性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="45" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-6" value="过程动态性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="85" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-7" value="资源匹配性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="125" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-9" value="DART&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Itc_XxCuijJgZ4YeyL3W-10" value="价值共创模式的三阶段模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d5Ulmh7SqMU23UAjxCaA" name="第 7 页">
+    <mxGraphModel dx="934" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-4" target="t1OgUGapkwH5UQ4u9h0g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="283" y="8" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-8" target="t1OgUGapkwH5UQ4u9h0g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-8" target="t1OgUGapkwH5UQ4u9h0g-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-8" target="t1OgUGapkwH5UQ4u9h0g-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-8" value="价值共创主体" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="96" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-9" target="t1OgUGapkwH5UQ4u9h0g-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-9" value="多主体价值共创行为逻辑研究" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="287" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-12" target="t1OgUGapkwH5UQ4u9h0g-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-12" value="多主体价值共创流程分析" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="383" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-13" target="t1OgUGapkwH5UQ4u9h0g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-13" value="新能源汽车厂商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="198" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-14" target="t1OgUGapkwH5UQ4u9h0g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-14" value="充电桩企业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148" y="198" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-15" target="t1OgUGapkwH5UQ4u9h0g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-15" value="电网企业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="198" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1OgUGapkwH5UQ4u9h0g-55" target="t1OgUGapkwH5UQ4u9h0g-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-55" value="多主体价值共创数据要素流通规则" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1OgUGapkwH5UQ4u9h0g-57" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="577" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
