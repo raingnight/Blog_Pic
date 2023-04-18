@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T13:09:45.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Bk8hEgKIdVUCH9afk1ot" version="21.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-18T13:10:19.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="04lHyaaOA7B4MFDJWFSt" version="21.1.8" type="github" pages="9">
   <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
     <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -905,7 +905,7 @@
         <mxCell id="t_Pz7H6hDPrsKH3CBU4V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DKBOBaeHTP-ijbbos-dN-1" target="t_Pz7H6hDPrsKH3CBU4V-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-5" value="网络连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t_Pz7H6hDPrsKH3CBU4V-3">
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-5" value="流量数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t_Pz7H6hDPrsKH3CBU4V-3">
           <mxGeometry x="-0.281" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -937,10 +937,10 @@
         <mxCell id="t_Pz7H6hDPrsKH3CBU4V-1" value="内网网环境自适应终端安全防御终端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="220" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-6" value="网络连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-6" value="流量数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="287" y="179.99857142857144" as="geometry" />
         </mxCell>
-        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-7" value="网络连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-7" value="流量数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="482" y="179.99857142857144" as="geometry" />
         </mxCell>
       </root>
