@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T12:57:34.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QyXmie41Ehv16lwnkZCk" version="21.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-18T13:09:45.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Bk8hEgKIdVUCH9afk1ot" version="21.1.8" type="github" pages="9">
   <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
     <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -887,6 +887,61 @@
         </mxCell>
         <mxCell id="tf2jMQDl29_ojrvoOMzs-36" value="未提取到安装包水印或水印校验不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="420" width="65" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aoOENbrmWNdhclP-MSPh" name="第 9 页">
+    <mxGraphModel dx="662" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="400" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.055;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DKBOBaeHTP-ijbbos-dN-1" target="t_Pz7H6hDPrsKH3CBU4V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DKBOBaeHTP-ijbbos-dN-1" target="t_Pz7H6hDPrsKH3CBU4V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-5" value="网络连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t_Pz7H6hDPrsKH3CBU4V-3">
+          <mxGeometry x="-0.281" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.945;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DKBOBaeHTP-ijbbos-dN-1" target="t_Pz7H6hDPrsKH3CBU4V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-1" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-2" value="基于DPI的内外网识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-3" value="终端设备安全特征提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-4" value="内网设备安全策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;策略沙箱&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="360" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DKBOBaeHTP-ijbbos-dN-8" value="外网设备安全策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-1" value="内网网环境自适应终端安全防御终端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="220" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-6" value="网络连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="287" y="179.99857142857144" as="geometry" />
+        </mxCell>
+        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-7" value="网络连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="482" y="179.99857142857144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
