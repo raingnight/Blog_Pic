@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T05:10:30.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="e70KlgGFgYjw5U0IiVZ2" version="21.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-19T05:10:37.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="awRPZ7QXOyop6zdn27iN" version="21.1.8" type="github" pages="9">
   <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
     <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -942,13 +942,6 @@
         </mxCell>
         <mxCell id="t_Pz7H6hDPrsKH3CBU4V-7" value="流量数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="482" y="179.99857142857144" as="geometry" />
-        </mxCell>
-        <mxCell id="t_Pz7H6hDPrsKH3CBU4V-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="310" y="360" as="sourcePoint" />
-            <mxPoint x="390" y="360" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
