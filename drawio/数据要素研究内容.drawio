@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T11:54:12.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QkLLFt_RZEnEv7F3t4pg" version="21.2.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-04T13:17:13.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5nJ1bocecBbXXiXi0Qhx" version="21.2.7" type="github" pages="14">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="No6zqwDVLv78cjqayfZu" name="第 2 页">
-    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-0WwdE2z55SudZGSBJzM" name="第 3 页">
-    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4egk8mrDzI4lGioBXqCi" name="第 4 页">
-    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,7 +300,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8X3-_Xn0iiy-C2f6h0R8" name="第 5 页">
-    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hRPObTGPPm4JDeJrtqaV" name="第 6 页">
-    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -444,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d5Ulmh7SqMU23UAjxCaA" name="第 7 页">
-    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1040,6 +1040,41 @@
         </mxCell>
         <mxCell id="nCXDFwCr3hMYCLRslcbh-21" value="数据购买方" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="677" y="340" width="71" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4QzXJd-YWt0pPGePzpV1" name="第 14 页">
+    <mxGraphModel dx="794" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2HNbNnBnRYtYuY481hRo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="205" width="295" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="2HNbNnBnRYtYuY481hRo-3" value="同态加密技术的应用研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2HNbNnBnRYtYuY481hRo-4" value="联邦学习技术的应用研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="402" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2HNbNnBnRYtYuY481hRo-5" value="差分隐私计算的应用研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="448" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2HNbNnBnRYtYuY481hRo-6" value="隐私计算技术在数据要素流通价值共创模式中的应用研究" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="268.5" y="220" width="223" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="2HNbNnBnRYtYuY481hRo-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;width=31;endSize=4.83;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="340" as="sourcePoint" />
+            <mxPoint x="379.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HNbNnBnRYtYuY481hRo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="442" as="sourcePoint" />
+            <mxPoint x="210" y="442" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
