@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T08:06:34.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lr6a9I2kHIcmyntmbHuE" version="21.2.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-04T09:59:16.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QKzK50yy3-_ClXrlME2L" version="21.2.7" type="github" pages="12">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -841,51 +841,137 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fb5f7Xw3jbMJRYVrTzXZ" name="第 11 页">
-    <mxGraphModel dx="794" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZVlYGv902LrL147lwVYh-1" value="多主体价值共创模式研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-1" value="多主体价值共创模式研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-2" value="数据要素流通价值评估模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-2" value="数据要素流通价值评估模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-3" value="数据服务成效评估模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-3" value="数据服务成效评估模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-4" value="成效价值市场化分配模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-4" value="成效价值市场化分配模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="160" y="260" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-5" value="电力数据安全流通交易和共享系统研发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-5" value="电力数据安全流通交易和共享系统研发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="470" y="170" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="70" width="20" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="274.5" y="120" as="sourcePoint" />
             <mxPoint x="274.5" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="189.5" as="sourcePoint" />
             <mxPoint x="460" y="189.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="274.5" y="240" as="sourcePoint" />
             <mxPoint x="274.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVlYGv902LrL147lwVYh-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="ZVlYGv902LrL147lwVYh-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=3.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="274.5" y="180" as="sourcePoint" />
             <mxPoint x="274.5" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4lf3m2kfGCr3_6WPm_Wl" name="第 12 页">
+    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="205" width="520" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-3" value="数据要素安全存储研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="140" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-4" value="数据要去确权研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="130" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-5" value="数据要素授权研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-6" value="数据确权机制在多主体价值共创模式中的应用研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="480" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;width=31;endSize=4.83;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="340" as="sourcePoint" />
+            <mxPoint x="379.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="420" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="450" width="360.75" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="12" as="sourcePoint" />
+            <mxPoint y="12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-21" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Link_Hub.svg;" vertex="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry width="41.51" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Link_Hub.svg;" vertex="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry x="80" width="41.51" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Link_Hub.svg;" vertex="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry x="160" width="41.51" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Link_Hub.svg;" vertex="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry x="238.49" width="41.51" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Link_Hub.svg;" vertex="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry x="319.24" width="41.51" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-29" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="41.50999999999999" y="23.5" as="sourcePoint" />
+            <mxPoint x="80" y="23.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-31" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="121.50999999999999" y="23.5" as="sourcePoint" />
+            <mxPoint x="160" y="23.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-32" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="201.51" y="23.5" as="sourcePoint" />
+            <mxPoint x="240" y="23.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-33" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="0JNE5WqpBYWU9u38qVqg-34">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="280" y="23.5" as="sourcePoint" />
+            <mxPoint x="318.49" y="23.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JNE5WqpBYWU9u38qVqg-37" value="区块链" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350.38" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
