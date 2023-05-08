@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T06:40:04.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NSeKjir_CZGxmiSxd0tg" version="21.2.9" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-05-08T07:21:34.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oR-mDly8QviEloKrzV9R" version="21.2.9" type="github" pages="17">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1255,7 +1255,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="khIhaVK9NRV5xhgfN6tV-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="766" y="294" width="156" height="276" as="geometry" />
+          <mxGeometry x="826" y="308" width="156" height="276" as="geometry" />
         </mxCell>
         <mxCell id="khIhaVK9NRV5xhgfN6tV-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="344" width="376" height="213" as="geometry" />
@@ -1312,31 +1312,90 @@
           <mxGeometry x="220" y="441" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="khIhaVK9NRV5xhgfN6tV-12" value="车险企业" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="786" y="327" width="120" height="60" as="geometry" />
+          <mxGeometry x="846" y="341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khIhaVK9NRV5xhgfN6tV-13" value="银行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="786" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="846" y="424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khIhaVK9NRV5xhgfN6tV-14" value="政府" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="786" y="488" width="120" height="60" as="geometry" />
+          <mxGeometry x="846" y="502" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="khIhaVK9NRV5xhgfN6tV-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据服务&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#10739e;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#b1ddf0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="403" width="127" height="74" as="geometry" />
-        </mxCell>
-        <mxCell id="khIhaVK9NRV5xhgfN6tV-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="474" y="439.41" as="sourcePoint" />
-            <mxPoint x="513" y="439.41" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="khIhaVK9NRV5xhgfN6tV-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="693" y="441" as="sourcePoint" />
-            <mxPoint x="732" y="441" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="khIhaVK9NRV5xhgfN6tV-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据服务&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#10739e;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#b1ddf0;" vertex="1" parent="1">
+          <mxGeometry x="533" y="246" width="127" height="74" as="geometry" />
         </mxCell>
         <mxCell id="wDugHT6_6-zt6QtsJFVP-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;数据需求方&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="764" y="254" width="170" height="30" as="geometry" />
+          <mxGeometry x="824" y="268" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wm3RsTamNj8sWY3kIzWs-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367" y="321" as="sourcePoint" />
+            <mxPoint x="523" y="259" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="407" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wm3RsTamNj8sWY3kIzWs-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669" y="262" as="sourcePoint" />
+            <mxPoint x="826" y="302" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="799" y="236" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wm3RsTamNj8sWY3kIzWs-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;经济收益&lt;/b&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/rmb-128.png" vertex="1" parent="1">
+          <mxGeometry x="585" y="584" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Wm3RsTamNj8sWY3kIzWs-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579" y="637" as="sourcePoint" />
+            <mxPoint x="404" y="571" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="434" y="644" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wm3RsTamNj8sWY3kIzWs-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="588" as="sourcePoint" />
+            <mxPoint x="692" y="644" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="869" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wm3RsTamNj8sWY3kIzWs-12" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;多主体价值共创模式在&lt;span style=&quot;font-family: 宋体; font-size: 27px;&quot;&gt;“车&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 27px;&quot; lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 27px;&quot;&gt;桩&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 27px;&quot; lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 27px;&quot;&gt;网”生态圈中的应用框架&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="492" y="388" width="311" height="136" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nCXi8m-Q0mgnS7wBHYnP" name="第 17 页">
+    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A_II-as8RxUkfciB5bPy-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="81" y="441" width="443" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="A_II-as8RxUkfciB5bPy-1" value="1、多主体价值共创模式研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="101" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_II-as8RxUkfciB5bPy-2" value="2、应用场景模式实例化研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_II-as8RxUkfciB5bPy-3" value="3、数据要素价值评估模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="387" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_II-as8RxUkfciB5bPy-4" value="6、数据流通交易与共享系统试制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="92" y="617" width="420" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="A_II-as8RxUkfciB5bPy-6" value="4、数据要素服务成效评估模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="101" y="541" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_II-as8RxUkfciB5bPy-7" value="5、数据要素服务成效市场化分配模型研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="303" y="541" width="203" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
