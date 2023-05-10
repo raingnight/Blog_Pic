@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T16:19:25.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zX1NYaRX4g9e5BlKyn0K" version="21.2.9" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-05-10T01:08:14.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_rU41VY1fEn2UZ2Wsjjc" version="21.2.9" type="github" pages="22">
   <diagram name="第 1 页" id="WiLY5_OS4S4dnDlmvVfY">
     <mxGraphModel dx="3176" dy="2200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -2099,7 +2099,7 @@
           <mxGeometry x="145.53" y="697" width="111.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYr3iVThqmsUf7QyN5BL-102" value="新能源车数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673.01" y="689.5" width="133.99" height="30" as="geometry" />
+          <mxGeometry x="658.9" y="689.5" width="133.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYr3iVThqmsUf7QyN5BL-103" value="Nginx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="490.5" y="1017" width="60" height="30" as="geometry" />
@@ -2112,6 +2112,9 @@
         </mxCell>
         <mxCell id="bYr3iVThqmsUf7QyN5BL-106" value="应用服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470.53" y="1089" width="96.47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYr3iVThqmsUf7QyN5BL-107" value="Nginx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="494" y="830" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
