@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T07:45:02.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-mLhnlYrH1LneSwp50JW" version="21.2.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-12T09:58:42.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oNO-kkUzxDNNqRT02K75" version="21.2.9" type="github" pages="11">
   <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xYUlTZcTP6EAIsT1t__o" name="第 3 页">
-    <mxGraphModel dx="794" dy="4356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="4778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,7 +535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PS_WQQ0cifdZwd58-wPI" name="第 5 页">
-    <mxGraphModel dx="794" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1044,6 +1044,80 @@
         </mxCell>
         <mxCell id="CUlWBbjPainke00PC9wt-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;应用程序&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9f1MutK4eg5vUPHDGQH0" name="第 11 页">
+    <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="knlaDX0B3juML3Q27HYf-1" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="600" y="158" width="33" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="90" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-3" value="恶意程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="267" y="165" width="35" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-5" value="DNS解析请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="164" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-15" value="操作系统API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="23" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312" y="189" as="sourcePoint" />
+            <mxPoint x="450" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="knlaDX0B3juML3Q27HYf-18" target="knlaDX0B3juML3Q27HYf-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-18" value="调用操作系统API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="283.5" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-20" value="伪造的DNS响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="194" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="219" as="sourcePoint" />
+            <mxPoint x="312" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307" y="260" as="sourcePoint" />
+            <mxPoint x="565" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-24" value="网络请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="230" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-26" value="DNS请求&lt;br&gt;拦截" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="190" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="542.5" y="296" as="sourcePoint" />
+            <mxPoint x="570" y="296.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-32" value="进程信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="476" y="356.5" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="knlaDX0B3juML3Q27HYf-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467.5" y="366" as="sourcePoint" />
+            <mxPoint x="310" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knlaDX0B3juML3Q27HYf-37" value="定位恶意程序路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319.5" y="340" width="148" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
