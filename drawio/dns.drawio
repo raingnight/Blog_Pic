@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T09:58:42.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oNO-kkUzxDNNqRT02K75" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-12T10:24:20.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KadWMeMapeg-QchqmOrY" version="21.2.9" type="github" pages="12">
   <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
     <mxGraphModel dx="794" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1118,6 +1118,87 @@
         </mxCell>
         <mxCell id="knlaDX0B3juML3Q27HYf-37" value="定位恶意程序路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="319.5" y="340" width="148" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LH6KWmMm5V7xxXddehxR" name="第 12 页">
+    <mxGraphModel dx="882" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqjzNmNAU0f23i-ouRKq-1" target="JqjzNmNAU0f23i-ouRKq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="157" width="215" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607" y="323" width="223" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqjzNmNAU0f23i-ouRKq-6" target="JqjzNmNAU0f23i-ouRKq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JqjzNmNAU0f23i-ouRKq-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-6" value="原始软件安装包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="349" width="87" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JqjzNmNAU0f23i-ouRKq-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480.5000000000002" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-10" value="合规软件安装包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="349" width="87" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-12" value="安装包风险检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="180" width="46" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-13" value="合规水印生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="406" y="179" width="46" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-14" value="安装包二次封装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="179" width="46" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="572" width="538" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-18" value="安装包合规水印提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="334" width="178" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-19" value="安装包合规水印校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="378" width="178" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="JqjzNmNAU0f23i-ouRKq-19" target="JqjzNmNAU0f23i-ouRKq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-21" value="安装过程阻断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="482" width="79" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqjzNmNAU0f23i-ouRKq-19" target="JqjzNmNAU0f23i-ouRKq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-22" value="安装过程放行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="733" y="482" width="81" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-25" value="校验&lt;br&gt;不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="631.5" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-26" value="校验&lt;br&gt;通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-35" value="运行软件&lt;br&gt;安全包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="431" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-36" value="操作系统API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="585" width="510" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjzNmNAU0f23i-ouRKq-38" value="操作系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="628" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
