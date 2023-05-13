@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T11:18:18.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="eEICNtjq-RsIxR61eUC_" type="github">
-  <diagram name="第 1 页" id="kCNJ8Udjjo1lSq7cI_Le">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-05-13T11:28:31.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6ly0lLP0YYRMej-LSv7K" version="21.2.9" type="github">
+  <diagram name="项目背景" id="kCNJ8Udjjo1lSq7cI_Le">
+    <mxGraphModel dx="1027" dy="465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Es11rbG1Lpe-k1zOMmpU-2" value="&lt;b&gt;课件分类管理需要大量人力物力，难以适应新时代的需求&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;direction=east;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="360.01" y="130" width="409.99" height="56.51" as="geometry" />
+        </mxCell>
+        <mxCell id="Es11rbG1Lpe-k1zOMmpU-3" value="项目背景" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="70" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Es11rbG1Lpe-k1zOMmpU-7" value="&lt;b&gt;课件资源较为碎片化，课件之间没有很强的关联性，组织粒度稍大&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;direction=east;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="360.01" y="200" width="410" height="56.51" as="geometry" />
+        </mxCell>
+        <mxCell id="Es11rbG1Lpe-k1zOMmpU-8" value="&lt;b&gt;难以精准鉴别培训人群，支撑力不足&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;direction=east;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340.01" width="410.01" height="56.51" as="geometry" />
+        </mxCell>
+        <mxCell id="Es11rbG1Lpe-k1zOMmpU-9" value="&lt;b&gt;课件重复率高难以有效鉴别&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;direction=east;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270.01" width="410.01" height="56.51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
