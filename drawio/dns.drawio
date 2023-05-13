@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T03:39:39.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FM_ngEgVnAyFrGXowzxZ" version="21.2.9" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-05-13T07:02:17.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="25bdW9RYMt1TKOWnOV5E" version="21.2.9" type="github" pages="19">
   <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
     <mxGraphModel dx="780" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1511,6 +1511,147 @@
         <mxCell id="zo-j00kIUb3k3Z2WsWSV-8" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;通过对协议安全设计缺陷代偿技术、域名定位的诱捕技术研究、软件安装包合规水印和控制技术、终端内外网环境自识别、自适应技术的研究，提出可落地实施的技术路线，提升在新型电力系统建设背景下的终端安全防御管控技术能力。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;strokeColor=none;spacingTop=20;spacingLeft=20;spacingBottom=20;spacing=20;" parent="1" vertex="1">
           <mxGeometry x="158" y="494" width="562" height="98" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Pt52wAoTnDb8A_evhDEv" name="第 17 页">
+    <mxGraphModel dx="780" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-1" value="国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="138" y="474" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-2" value="研究目标及技术难点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="138" y="554" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-3" value="总体解决思路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="138" y="634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-4" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="278" y="474" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-5" value="技术路线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="418" y="474" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-6" value="预期成果及交付物" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="418" y="554" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-7" value="创新点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="418" y="634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vp16Bt4iN9YeAF8m0LG-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="138" y="454" as="sourcePoint" />
+            <mxPoint x="538" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zbSbDVv0ndYiS3274j2b" name="第 18 页">
+    <mxGraphModel dx="780" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kd5V6c_V1CGia_A35MBa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-4" target="kd5V6c_V1CGia_A35MBa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-4" target="kd5V6c_V1CGia_A35MBa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-4" target="kd5V6c_V1CGia_A35MBa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-4" target="kd5V6c_V1CGia_A35MBa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-4" value="DNS协议安全设计缺陷代偿技术研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-5" target="kd5V6c_V1CGia_A35MBa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-5" target="kd5V6c_V1CGia_A35MBa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-5" value="本地缓存与实时查询结合的安全域名库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-6" target="kd5V6c_V1CGia_A35MBa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-6" target="kd5V6c_V1CGia_A35MBa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-6" value="域名解析请求拦截与识别技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="719" width="160" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-7" target="kd5V6c_V1CGia_A35MBa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-7" value="恶意请求数据包阻断技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="160" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-8" target="kd5V6c_V1CGia_A35MBa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-8" target="kd5V6c_V1CGia_A35MBa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-8" value="异常行为监测与上报" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-13" value="常用域名进行本地缓存快速响应" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-14" value="其它域名实时查询保证安全性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="670" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-15" value="恶意域名拦截阻断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="710" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-16" value="安全域名正常放行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="750" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-18" target="kd5V6c_V1CGia_A35MBa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-18" target="kd5V6c_V1CGia_A35MBa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-18" value="数据包特征分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-20" value="恶意数据包阻断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="780" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-21" value="安全数据包放行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="835" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-23" target="kd5V6c_V1CGia_A35MBa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-23" value="非法外联IP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="865" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="kd5V6c_V1CGia_A35MBa-24" target="kd5V6c_V1CGia_A35MBa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-24" value="恶意域名解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="905" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kd5V6c_V1CGia_A35MBa-26" value="异常上报" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="885" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eIf_yoX_7d60cio6AhCp" name="第 19 页">
+    <mxGraphModel dx="780" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
