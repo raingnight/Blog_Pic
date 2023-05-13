@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T12:36:05.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QOXpHyAcRLdqBLFTkvws" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-13T12:51:09.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_NDJIEkLLV5cMq-lQr5t" version="21.2.9" type="github" pages="4">
   <diagram name="项目背景" id="kCNJ8Udjjo1lSq7cI_Le">
     <mxGraphModel dx="1027" dy="465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -256,6 +256,59 @@
         </mxCell>
         <mxCell id="_BFNC2JxAdggJje63jiw-36" value="培训课件智能推荐技术" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="1425.61" y="1005" width="285" height="54" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hQ2BWwfW_iBNs9DQWPoZ" name="内容正偏差">
+    <mxGraphModel dx="32" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oex_owEVyH-wh8mycvRO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="911" width="140" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="911" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-1" value="文本及视频知识图谱构建技术研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="930" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-2" value="培训课件自动归类技术研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1109" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-3" value="培训课件智能化查重研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1021" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-4" value="&lt;h4 style=&quot;margin-left:0cm;text-indent:0cm;mso-list:l0 level4 lfo1&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑, sans-serif; font-weight: normal;&quot;&gt;培训人员智能画像技术研究&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="920.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-5" value="培训课件智能推荐技术研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1062.5" width="120" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1499.5" y="990" as="sourcePoint" />
+            <mxPoint x="1499.5" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1499.5" y="1081" as="sourcePoint" />
+            <mxPoint x="1499.5" y="1111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oex_owEVyH-wh8mycvRO-10" value="智能课件管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1200" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EEGGV_ocJgmRQtAPj-2V-1" value="技术规范书要求项" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="840" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEGGV_ocJgmRQtAPj-2V-3" value="我方增加正偏离项" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="840" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEGGV_ocJgmRQtAPj-2V-4" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0070C0;fontSize=20;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="790" width="410" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
