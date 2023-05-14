@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T02:57:48.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jTkG_2aSSQKov5Vv4IFq" version="21.2.9" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-05-14T03:41:22.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-v99xys2_1iK2YtYYtD1" version="21.2.9" type="github" pages="24">
   <diagram name="第 1 页" id="uTNQZCrpNhPznFiIJOcQ">
     <mxGraphModel dx="1232" dy="603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -2112,6 +2112,155 @@
         </mxCell>
         <mxCell id="_-r51wrbRAO0hkYSiX_L-43" value="图形图表展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="637" y="906" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9R0QnAfIt8kBuFzMbDvk" name="第 24 页">
+    <mxGraphModel dx="1449" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HmKglHT19JPKdv4Xwamr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-5" target="HmKglHT19JPKdv4Xwamr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-5" target="HmKglHT19JPKdv4Xwamr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-5" target="HmKglHT19JPKdv4Xwamr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-5" target="HmKglHT19JPKdv4Xwamr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-5" target="HmKglHT19JPKdv4Xwamr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-5" value="终端安全管理策略研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-10" target="HmKglHT19JPKdv4Xwamr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontColor=#FFFFFF;gradientColor=#7ea6e0;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-10" target="HmKglHT19JPKdv4Xwamr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-10" value="风险评估和需求分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="607.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-13" value="策略目标的确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="719" width="160" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-17" target="HmKglHT19JPKdv4Xwamr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-17" target="HmKglHT19JPKdv4Xwamr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-17" target="HmKglHT19JPKdv4Xwamr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-17" value="安全控制措施的选择" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="817.5" width="160" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-19" target="HmKglHT19JPKdv4Xwamr-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-19" value="策略实施和执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="901" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-20" target="HmKglHT19JPKdv4Xwamr-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-20" target="HmKglHT19JPKdv4Xwamr-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-20" target="HmKglHT19JPKdv4Xwamr-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-20" target="HmKglHT19JPKdv4Xwamr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-20" value="风险评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="517" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-21" target="HmKglHT19JPKdv4Xwamr-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-21" target="HmKglHT19JPKdv4Xwamr-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-21" target="HmKglHT19JPKdv4Xwamr-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-21" target="HmKglHT19JPKdv4Xwamr-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-21" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="694.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-24" value="技术验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="823" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-27" value="评估和比较" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="785" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-28" value="实施和监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="862" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-29" value="安全控制选项" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="637" y="906" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-30" target="HmKglHT19JPKdv4Xwamr-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-30" target="HmKglHT19JPKdv4Xwamr-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-30" target="HmKglHT19JPKdv4Xwamr-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-30" value="定期评估和持续改进" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-32" value="资产识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="457" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-35" value="威胁辨识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="497" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-36" value="脆弱性评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="537" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-37" value="影响分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="577" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-37" target="HmKglHT19JPKdv4Xwamr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-43" value="安全目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="634" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-44" value="法规和合规性要求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="674" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-45" value="业务需求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="714" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-46" value="技术要求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="754" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="HmKglHT19JPKdv4Xwamr-46" target="HmKglHT19JPKdv4Xwamr-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-52" value="建立评估计划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="960" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-53" value="问题识别和改进计划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="1005" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKglHT19JPKdv4Xwamr-54" value="持续改进" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="1050" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
