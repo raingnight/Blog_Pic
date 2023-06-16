@@ -1,23 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T01:48:44.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VXvdUL7RFNWwQEwIr7gx" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T02:31:25.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CA5UlavB7h9t9lksaT5-" version="21.4.0" type="github" pages="2">
   <diagram name="Page-1" id="aZHAkhRgenXradTjUIK8">
     <mxGraphModel dx="780" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="140" width="450" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-2" value="&lt;b&gt;多源数据融合安运数据中台构建技术研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="235" width="120" height="145" as="geometry" />
+        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-3" value="多套运维系统、安全系统的多源数据融合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="235" width="90" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="235" width="120" height="145" as="geometry" />
+        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-4" value="构件安运数据中台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="235" width="90" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="235" width="120" height="145" as="geometry" />
+        <mxCell id="6Zt_LFyWWYdmzAwqZ-lw-5" value="建设全省资产、运维、安全一体化智能平台&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:10.0pt;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="235" width="90" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="rvgJWYRjZ1ffFvE49Fi4-2" value="构建一个综合安全管控平台，实现对整个基础设施、网络、终端、业务系统及数据安全状态的实时掌控&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:10.0pt;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="235" width="90" height="145" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QDF-a94d2gf3DDuVr7Kn" name="第 2 页">
+    <mxGraphModel dx="780" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="500" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-2" value="&lt;b&gt;多维立体化安全监管模型研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-3" value="基于大数据技术的运维安全数据中台的多维数据应用模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-4" value="多维立体化安全监管模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-5" value="运维系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-6" value="安全系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-7" value="日志数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-8" value="监控指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="420" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-9" value="事件数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-10" value="&lt;b&gt;······&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-11" value="安全管控措施和策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="30" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-12" value="基础设施层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="325" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-13" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="375" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-14" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="425" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1qRdK-pbgWBN5peDUBB-15" value="&lt;b&gt;······&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="475" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
