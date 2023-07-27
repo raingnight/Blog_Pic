@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T04:53:36.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lhSG4aLd2Ptbg-XbLg6P" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:24:28.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NRLy-w5bTTYpz6IzBPCg" version="21.6.5" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1123" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -196,111 +196,138 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wuaRLVBULmAQ-_p62o6H" name="第 3 页">
-    <mxGraphModel dx="842" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gxcYKeE8cosAsWTpbWNt-3" value="级联配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="430" y="860" width="160" height="50" as="geometry" />
+          <mxGeometry x="342.5" y="1010.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-4" value="安全策略配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="190" y="860" width="220" height="50" as="geometry" />
+          <mxGeometry x="339.37" y="830" width="442.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-5" value="终端安全策略自主配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="250" y="660" width="50" height="100" as="geometry" />
+          <mxGeometry x="722.5" y="1070.5" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-6" value="终端资产分组及权限管控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="47.5" y="590" width="262.5" height="60" as="geometry" />
+          <mxGeometry x="522.5" y="1010.5" width="262.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-7" value="告警管控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="170" y="460" width="500" height="60" as="geometry" />
+          <mxGeometry x="340" y="1390" width="702.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-8" value="报表管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1070" width="150" height="50" as="geometry" />
+          <mxGeometry x="340" y="1500" width="702.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-9" value="网络拓扑分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="470" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="572.5" y="1240" width="206.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-10" value="安装包合规水印控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="610" y="860" width="220" height="50" as="geometry" />
+          <mxGeometry x="802.5" y="1060" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-11" value="一键朔源取证管控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="340" y="590" width="250" height="60" as="geometry" />
+          <mxGeometry x="342.5" y="1180" width="436.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-12" value="系统管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="620" y="610" width="230" height="50" as="geometry" />
+          <mxGeometry x="805" y="820" width="237.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-13" value="网络活动监测管控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="340" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="342.5" y="1240" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-16" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="670" width="50" height="160" as="geometry" />
+          <mxGeometry x="805" y="880" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-17" value="菜单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="670" width="50" height="160" as="geometry" />
+          <mxGeometry x="865" y="880" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-18" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="670" width="50" height="160" as="geometry" />
+          <mxGeometry x="925" y="880" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-19" value="日志管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="670" width="50" height="160" as="geometry" />
+          <mxGeometry x="985" y="880" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-21" value="安装包水印添加" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="920" width="55" height="170" as="geometry" />
+          <mxGeometry x="810" y="1120" width="62.5" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-23" value="安装包版本管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="920" width="55" height="170" as="geometry" />
+          <mxGeometry x="892.5" y="1120" width="65" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-24" value="安装包拦截策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="765" y="920" width="55" height="170" as="geometry" />
+          <mxGeometry x="972.5" y="1120" width="67.5" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-25" value="当前节点管理信息维护及上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="920" width="60" height="170" as="geometry" />
+          <mxGeometry x="352.5" y="1070.5" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-26" value="下级节点接入审批及管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="920" width="60" height="170" as="geometry" />
+          <mxGeometry x="432.5" y="1070.5" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-27" value="恶意域名黑白名单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="920" width="55" height="110" as="geometry" />
+          <mxGeometry x="356.87" y="890" width="115" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-28" value="外联IP黑白名单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="920" width="55" height="110" as="geometry" />
+          <mxGeometry x="501.87" y="890" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-29" value="防火墙安全策略管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="920" width="55" height="110" as="geometry" />
+          <mxGeometry x="641.87" y="890" width="113.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-30" value="报表生成与管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113.75" y="1130" width="55" height="110" as="geometry" />
+          <mxGeometry x="350" y="1560" width="332.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-31" value="报表下载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="181.25" y="1130" width="55" height="110" as="geometry" />
+          <mxGeometry x="702.5" y="1560" width="327.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-32" value="终端设备管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="660" width="50" height="100" as="geometry" />
+          <mxGeometry x="542.5" y="1070.5" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-33" value="终端分组管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131.25" y="660" width="50" height="100" as="geometry" />
+          <mxGeometry x="603.75" y="1070.5" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-34" value="终端分组安全策略管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="660" width="50" height="100" as="geometry" />
+          <mxGeometry x="662.5" y="1070.5" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-35" value="节点与终端管控关系图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="710" width="50" height="100" as="geometry" />
+          <mxGeometry x="572.5" y="1280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-36" value="节点及终端信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="710" width="50" height="100" as="geometry" />
+          <mxGeometry x="672.5" y="1280" width="106.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-37" value="终端基本进行采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="710" width="50" height="50" as="geometry" />
+          <mxGeometry x="342.5" y="1280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-38" value="终端进程信息采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="710" width="50" height="50" as="geometry" />
+          <mxGeometry x="452.5" y="1280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-40" value="软件安装情况采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="760" width="50" height="50" as="geometry" />
+          <mxGeometry x="342.5" y="1330" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxcYKeE8cosAsWTpbWNt-41" value="网络活动信息采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="760" width="50" height="50" as="geometry" />
+          <mxGeometry x="452.5" y="1330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gxcYKeE8cosAsWTpbWNt-44" value="访问恶意域名告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348.75" y="1450" width="213.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gxcYKeE8cosAsWTpbWNt-45" value="非法外联IP告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="1450" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gxcYKeE8cosAsWTpbWNt-46" value="非合规安装包告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="1450" width="227.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gxcYKeE8cosAsWTpbWNt-51" value="安全策略录入" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="165.75" y="810" width="57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxcYKeE8cosAsWTpbWNt-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="849" as="sourcePoint" />
+            <mxPoint x="310" y="849" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gxcYKeE8cosAsWTpbWNt-53" value="终端数据录入" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="1010.5" width="68.5" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gxcYKeE8cosAsWTpbWNt-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1050" as="sourcePoint" />
+            <mxPoint x="307.5" y="1050" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
