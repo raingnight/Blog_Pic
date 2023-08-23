@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-08-23T10:53:24.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CoAm0798f4-ZIkn70c32" version="21.6.5" type="github">
+  <diagram name="第 1 页" id="CrQ0aTaLahwgxUJB0Oti">
+    <mxGraphModel dx="780" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00AB7A;strokeWidth=2;" edge="1" parent="1" source="eXfeWmbaZbOtzLUSjpVF-1" target="eXfeWmbaZbOtzLUSjpVF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00AB7A;strokeWidth=2;" edge="1" parent="1" source="eXfeWmbaZbOtzLUSjpVF-1" target="eXfeWmbaZbOtzLUSjpVF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-1" value="监测发现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00ab7a;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="7" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="610" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-4" value="&lt;div&gt;☐ ①对重点人投毒进行社工攻击&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ③发现重要敏感数据被窃取（窃取敏感数据）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ⑤邮件系统被盯控（顶控邮件系统）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ⑦供应链打击&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ⑨内网敏感信息被搜集利用（网段信息、密码本、网络拓扑、源代码、组织架构信息等让防守方补充）（内网敏感信息搜集利用）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-5" value="&lt;div&gt;☐ ②发现隐蔽攻击隧道（搭建隐蔽攻击隧道）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ④系统被控制，植入木马等（获取系统控制权， 植入木马等）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ⑥近源攻击突破网络防线&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ⑧通过下属单位、跨网，迁回攻击&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;☐ ⑩漏洞利用、口令盗用、权限提升等高危操作&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-7" value="及时发现性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="177" y="184" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-8" value="发现攻击类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="177" y="348" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="135" width="309" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-18" value="攻击时间：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="151" width="254" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXfeWmbaZbOtzLUSjpVF-19" value="发现时间：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="202" width="245" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
