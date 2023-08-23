@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T11:25:40.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Dh9sovLtc0A6WJX9jZwj" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-23T11:27:53.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8nzrExBnKtF7aWImKIpA" version="21.6.5" type="github" pages="6">
   <diagram name="第 1 页" id="CrQ0aTaLahwgxUJB0Oti">
     <mxGraphModel dx="780" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -272,6 +272,38 @@
         </mxCell>
         <mxCell id="YhT68nm2lyjtiluxuVeR-14" value="☐&amp;nbsp;提交完善防护策略方案" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YhT68nm2lyjtiluxuVeR-10">
           <mxGeometry x="13" y="74" width="346" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zhru9ta7GqFc-fdNkrxd" name="第 6 页">
+    <mxGraphModel dx="780" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00AB7A;strokeWidth=2;" edge="1" parent="1" source="xmYn6MSLZONbyI5kkwYW-3" target="xmYn6MSLZONbyI5kkwYW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-3" value="追踪朔源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00ab7a;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="9" y="174" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-4" value="☐ 还原攻击链条" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="177" y="184" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="135" width="175" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-13" value="☐ 定位攻击入口&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="141" width="358" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-14" value="☐&amp;nbsp;锁定内网跳板" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="174" width="346" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-15" value="☐ 还原攻击路径" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="209" width="346" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYn6MSLZONbyI5kkwYW-16" value="☐ 刻画出完整的攻击链条" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="248" width="346" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
