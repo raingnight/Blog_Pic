@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T02:09:33.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oRP7k2P3SNmS-ojm7VoA" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T02:20:18.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6as2Hs1fk3Rxf5poAwZH" version="21.7.5" type="github" pages="2">
   <diagram name="第 1 页" id="Q9tEdCGek8aqWpYcxflV">
     <mxGraphModel dx="1020" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -159,6 +159,53 @@
         </mxCell>
         <mxCell id="GPUp4i8ASlrH4IsffR4a-52" value="Windows 操作系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BClMbUuCU9lt1SZ4iEn_" name="第 2 页">
+    <mxGraphModel dx="1020" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlZZbuvY_ccrXcdxWsB4-1" target="DlZZbuvY_ccrXcdxWsB4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-1" value="C++ 驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlZZbuvY_ccrXcdxWsB4-2" target="DlZZbuvY_ccrXcdxWsB4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-2" value="Golang 应用程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-3" value="MQTT Server" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="70.83" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-6" value="JAVA 后端" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="39.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-9" value="IOCTL通信" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="310" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="360" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="120" as="sourcePoint" />
+            <mxPoint x="590" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-15" value="拦截记录上报&lt;br&gt;安全策略接收" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZZbuvY_ccrXcdxWsB4-16" value="拦截记录接收&lt;br&gt;安全策略下发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
