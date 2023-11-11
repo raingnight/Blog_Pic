@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T06:16:32.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vEP8QWQPg8Aabim2xBRS" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-11T06:26:11.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CATsCpNWLnQ2IGbs8cNo" version="22.1.0" type="github" pages="10">
   <diagram name="Page-1" id="RUNfsU02U1K6HEWVE6a0">
     <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1856,7 +1856,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LjktysWocXXfzMnWetzM" name="第 10 页">
-    <mxGraphModel dx="1300" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2019,13 +2019,13 @@
         <mxCell id="-gPUaaWAWamYHZBpeMJo-22" value="信息化硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="732" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-23" value="地球物理台网数据汇集与管理系统(集群）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-23" value="云南地球物理台网数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="769.5" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-24" value="地球物理台网数据处理软件国产化改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-24" value="云南地球物理台网数据处理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="807" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-25" value="地球物理台网数据跟踪分析软件国产化改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-25" value="云南地球物理台网数据跟踪分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="843" y="468" width="27" height="162" as="geometry" />
         </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-26" value="陆态网络业务国产化改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2034,7 +2034,7 @@
         <mxCell id="-gPUaaWAWamYHZBpeMJo-27" value="云南省预报宗合业务服务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="918" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-28" value="学科北务平台与产品产出系统国产化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-28" value="学科业务平台与产品产出系统国产化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="992" y="468" width="27" height="162" as="geometry" />
         </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-29" value="地球物理专用设备网络通讯协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2055,74 +2055,8 @@
         <mxCell id="-gPUaaWAWamYHZBpeMJo-34" value="省局应急指挥系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-76" value="1619.3&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="38" y="615" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-77" value="956.9&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="615" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-79" value="180&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="616" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-80" value="0&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="158.5" y="616" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-81" value="4674&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="198.5" y="615" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-82" value="2429.5&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="254.5" y="616" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-83" value="344.9&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290.5" y="616" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-84" value="1008.5&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400.5" y="622" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-85" value="2023&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="439" y="622" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-86" value="767.14&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="401" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-87" value="2518&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715.5" y="632" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-88" value="400&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="753" y="632" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-89" value="300&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790.5" y="632" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-90" value="80&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="826.5" y="632" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-91" value="180&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="863" y="632" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-92" value="90&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="901.5" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-93" value="20&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="975.5" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-94" value="30&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="938.5" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-95" value="480&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1032.5" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-96" value="304&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-97" value="1000&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1114.5" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-98" value="103&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1260.5" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-99" value="430&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1303.5" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
