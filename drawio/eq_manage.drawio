@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T04:00:41.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="flg_2RMWfdIVzDv8dsL9" version="22.1.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-11T06:05:06.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ghBnLcZf02aMzL7UJ2V3" version="22.1.0" type="github" pages="10">
   <diagram name="Page-1" id="RUNfsU02U1K6HEWVE6a0">
     <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1645,7 +1645,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DBtrklkLzMnEutC9IGUy" name="第 9 页">
-    <mxGraphModel dx="918" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1679,7 +1679,7 @@
         <mxCell id="oumxafytkiH_VZqYDvlI-36" value="串口通信指令集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="455" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oumxafytkiH_VZqYDvlI-40" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="oumxafytkiH_VZqYDvlI-40" value="嵌入式&lt;br&gt;数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="630" y="170" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oumxafytkiH_VZqYDvlI-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
@@ -1851,6 +1851,209 @@
             <mxPoint x="509" y="547" as="sourcePoint" />
             <mxPoint x="548" y="547" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LjktysWocXXfzMnWetzM" name="第 10 页">
+    <mxGraphModel dx="2760" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-1" target="-gPUaaWAWamYHZBpeMJo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-1" target="-gPUaaWAWamYHZBpeMJo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-1" value="地震监测预报体系建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="17" width="297" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-2" target="-gPUaaWAWamYHZBpeMJo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-2" target="-gPUaaWAWamYHZBpeMJo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-2" target="-gPUaaWAWamYHZBpeMJo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-2" value="数据平台建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="953" y="122" width="192" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-3" target="-gPUaaWAWamYHZBpeMJo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-3" target="-gPUaaWAWamYHZBpeMJo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-3" target="-gPUaaWAWamYHZBpeMJo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-3" target="-gPUaaWAWamYHZBpeMJo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-3" value="观测系统建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="122" width="192" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-4" target="-gPUaaWAWamYHZBpeMJo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-4" target="-gPUaaWAWamYHZBpeMJo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-4" target="-gPUaaWAWamYHZBpeMJo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-4" target="-gPUaaWAWamYHZBpeMJo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-4" target="-gPUaaWAWamYHZBpeMJo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-4" value="固定站点观测仪器更新升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="228" width="50" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-5" target="-gPUaaWAWamYHZBpeMJo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-5" target="-gPUaaWAWamYHZBpeMJo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-5" value="流动观测系统建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="228" width="50" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-6" target="-gPUaaWAWamYHZBpeMJo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-6" target="-gPUaaWAWamYHZBpeMJo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-6" target="-gPUaaWAWamYHZBpeMJo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-6" value="运维保障系统建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="228" width="50" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-7" value="强震动台站改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="453" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-8" value="测震台站观测系统改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="21" y="453" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-9" value="地球物理观测设备更新改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="453" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-10" value="市县测震台站设备更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="453" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-11" value="烈度示范台站观测系统设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="453" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-12" value="流动观测设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="453" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-13" value="地下流体异常核实装备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="453" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-14" value="测震类备机备件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="459" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-15" value="地球物理类备机备件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398.5" y="459" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-16" value="一般站标准化改造和智能化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="459" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-18" value="一般站智能化升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="228" width="50" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-19" value="信息化硬件系统建设(信息网络设备采购安装)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="811" y="228" width="50" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-20" target="-gPUaaWAWamYHZBpeMJo-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-20" target="-gPUaaWAWamYHZBpeMJo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-20" target="-gPUaaWAWamYHZBpeMJo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-20" value="网络安全系统建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="228" width="50" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-21" target="-gPUaaWAWamYHZBpeMJo-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-21" target="-gPUaaWAWamYHZBpeMJo-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-21" value="应急服务保障系统建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="229" width="50" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-22" value="信息化硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-23" value="地球物理台网数据汇集与管理系统(集群）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-24" value="地球物理台网数据处理软件国产化改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-25" value="地球物理台网数据跟踪分析软件国产化改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="786" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-26" value="陆态网络业务国产化改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="822.5" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-27" value="云南省预报宗合业务服务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="861" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-28" value="学科北务平台与产品产出系统国产化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-29" value="地球物理专用设备网络通讯协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="898" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-30" value="网络安全建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="997" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-31" value="通信网络建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-32" value="中心站网络安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035.5" y="468" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-33" value="中心站应急服务保障系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="460" width="27" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-34" value="省局应急指挥系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="460" width="27" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
