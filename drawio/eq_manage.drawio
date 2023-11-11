@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T06:26:11.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CATsCpNWLnQ2IGbs8cNo" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-11T06:27:22.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aZHZKQjqZsd0pqma1der" version="22.1.0" type="github" pages="10">
   <diagram name="Page-1" id="RUNfsU02U1K6HEWVE6a0">
     <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1856,7 +1856,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LjktysWocXXfzMnWetzM" name="第 10 页">
-    <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1950" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2054,9 +2054,6 @@
         </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-34" value="省局应急指挥系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="468" width="27" height="162" as="geometry" />
-        </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-86" value="767.14&lt;br&gt;万元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="401" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
