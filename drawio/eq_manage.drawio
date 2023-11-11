@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T06:27:22.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aZHZKQjqZsd0pqma1der" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-11T06:40:27.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="24qTuRPZ2AyohKZ3605w" version="22.1.0" type="github" pages="10">
   <diagram name="Page-1" id="RUNfsU02U1K6HEWVE6a0">
     <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1856,7 +1856,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LjktysWocXXfzMnWetzM" name="第 10 页">
-    <mxGraphModel dx="1950" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1980,9 +1980,6 @@
         <mxCell id="-gPUaaWAWamYHZBpeMJo-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1990,6 +1987,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gPUaaWAWamYHZBpeMJo-19" target="-gPUaaWAWamYHZBpeMJo-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-19" value="信息化硬件系统建设(信息网络设备采购安装)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2017,24 +2017,24 @@
           <mxGeometry x="1287" y="229" width="50" height="172" as="geometry" />
         </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-22" value="信息化硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="732" y="468" width="27" height="162" as="geometry" />
+          <mxGeometry x="731" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-23" value="云南地球物理台网数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="769.5" y="468" width="27" height="162" as="geometry" />
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-23" value="地球物理台网数据管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="768.5" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-24" value="云南地球物理台网数据处理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="807" y="468" width="27" height="162" as="geometry" />
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-24" value="地球物理台网数据处理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-25" value="云南地球物理台网数据跟踪分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="843" y="468" width="27" height="162" as="geometry" />
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-25" value="地球物理台网数据跟踪分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-26" value="陆态网络业务国产化改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="879.5" y="468" width="27" height="162" as="geometry" />
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-26" value="GNSS 数据汇集与资源管理信息发布系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="878.5" y="468" width="30.5" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-27" value="云南省预报宗合业务服务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-27" value="预报综合业务服务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="918" y="468" width="27" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-gPUaaWAWamYHZBpeMJo-28" value="学科业务平台与产品产出系统国产化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-gPUaaWAWamYHZBpeMJo-28" value="学科产品产出服务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="992" y="468" width="27" height="162" as="geometry" />
         </mxCell>
         <mxCell id="-gPUaaWAWamYHZBpeMJo-29" value="地球物理专用设备网络通讯协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
