@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T13:25:08.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AH3Awzo0AoVFUNb5RQEC" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-05T05:04:14.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qIzLDh_sEIx1OZkLN4Yk" version="22.1.16" type="github" pages="16">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
     <mxGraphModel dx="780" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -613,44 +613,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JXAFaDwSCAhSeQYrrbCE" name="第 6 页">
-    <mxGraphModel dx="2620" dy="2686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-240" target="IEIzpYGYy8FK_gN7MSgJ-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-34" y="-97" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-240" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-99" y="-30" width="129" height="500" as="geometry" />
+          <mxGeometry x="401" y="247.11" width="129" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-236" target="t0VG4i905X1T4OPvXWwB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-236" target="t0VG4i905X1T4OPvXWwB-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-236" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="-30" width="128" height="500" as="geometry" />
+          <mxGeometry x="551.47" y="247.11" width="128" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M_-kv8_Bes0HBn09ROMI-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-110" y="228.45" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-4" target="M_-kv8_Bes0HBn09ROMI-240">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-4" value="数采仪器" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="-260" y="198.45" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="514.5" y="320" width="41.4" height="44.5" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" parent="1" target="M_-kv8_Bes0HBn09ROMI-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="535.2" y="255" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-18" value="国家中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="470" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="467.11" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-30" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="756.6" y="260" width="110.66" height="90" as="geometry" />
+          <mxGeometry x="1320" y="560" width="110.66" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-31" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-30" vertex="1">
           <mxGeometry x="78.26025459688827" y="37.369565217391305" width="32.399745403111744" height="34.82608695652174" as="geometry" />
@@ -668,7 +654,7 @@
           <mxGeometry x="50.65999999999997" y="7.3700000000000045" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-40" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="756.6" y="360" width="110.66" height="90" as="geometry" />
+          <mxGeometry x="1320" y="660" width="110.66" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-41" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-40" vertex="1">
           <mxGeometry x="78.26025459688827" y="37.369565217391305" width="32.399745403111744" height="34.82608695652174" as="geometry" />
@@ -686,7 +672,7 @@
           <mxGeometry x="50.65999999999997" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-45" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="766" y="60" width="110.66" height="90" as="geometry" />
+          <mxGeometry x="1329.4" y="360" width="110.66" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-46" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-45" vertex="1">
           <mxGeometry x="78.26025459688827" y="37.369565217391305" width="32.399745403111744" height="34.82608695652174" as="geometry" />
@@ -703,26 +689,8 @@
         <mxCell id="M_-kv8_Bes0HBn09ROMI-81" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-45" vertex="1">
           <mxGeometry x="50.65999999999997" y="7.105427357601002e-15" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-50" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="756" y="-40" width="110.66" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-51" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-50" vertex="1">
-          <mxGeometry x="78.26025459688827" y="37.369565217391305" width="32.399745403111744" height="34.82608695652174" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-52" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="M_-kv8_Bes0HBn09ROMI-50" vertex="1">
-          <mxGeometry x="3.756492220650601" y="19.565217391304348" width="39.44316831683169" height="70.43422913719944" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-53" value="流体学科中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="M_-kv8_Bes0HBn09ROMI-50" vertex="1">
-          <mxGeometry width="60" height="23.48" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="M_-kv8_Bes0HBn09ROMI-50" source="M_-kv8_Bes0HBn09ROMI-52" target="M_-kv8_Bes0HBn09ROMI-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-76" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-50" vertex="1">
-          <mxGeometry x="50.65999999999997" y="7.105427357601002e-15" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-57" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="756.6" y="156" width="110.66" height="90" as="geometry" />
+          <mxGeometry x="1320" y="456" width="110.66" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-58" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-57" vertex="1">
           <mxGeometry x="78.26025459688827" y="37.369565217391305" width="32.399745403111744" height="34.82608695652174" as="geometry" />
@@ -739,118 +707,35 @@
         <mxCell id="M_-kv8_Bes0HBn09ROMI-82" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-57" vertex="1">
           <mxGeometry x="50.65999999999997" y="-3.259999999999991" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="M_-kv8_Bes0HBn09ROMI-86" target="M_-kv8_Bes0HBn09ROMI-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575.8699999999772" y="201" as="sourcePoint" />
-            <mxPoint x="768.7564922206552" y="114.78233195990424" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="665" y="201" />
-              <mxPoint x="665" y="115" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="M_-kv8_Bes0HBn09ROMI-86" target="M_-kv8_Bes0HBn09ROMI-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="M_-kv8_Bes0HBn09ROMI-86" target="M_-kv8_Bes0HBn09ROMI-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-86" target="M_-kv8_Bes0HBn09ROMI-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="666" y="201" />
-              <mxPoint x="666" y="315" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-86" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" parent="1" vertex="1">
-          <mxGeometry x="499.53" y="157.5" width="71.34" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-126" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190" y="13.099999999999994" width="95.26999999999998" height="126.9" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-127" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-126" vertex="1">
-          <mxGeometry x="48.52735426008969" y="90.90860420650095" width="33.483874439461886" height="35.99139579349905" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-128" value="省级&lt;br&gt;中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-126" vertex="1">
-          <mxGeometry y="84.60418738049714" width="48.52735426008969" height="24.26386233269599" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-129" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" parent="M_-kv8_Bes0HBn09ROMI-126" vertex="1">
-          <mxGeometry x="25.072466367713005" width="65.107533632287" height="84.59935426008968" as="geometry" />
-        </mxCell>
-        <mxCell id="_tPynohHPtIaj-70k4FQ-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-126" vertex="1">
-          <mxGeometry x="35.26999999999998" y="-13.099999999999987" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-134" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190" y="303.1" width="95.26999999999998" height="126.9" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-135" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-134" vertex="1">
-          <mxGeometry x="48.52735426008969" y="90.90860420650095" width="33.483874439461886" height="35.99139579349905" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-136" value="省级&lt;br&gt;中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-134" vertex="1">
-          <mxGeometry y="84.60418738049714" width="48.52735426008969" height="24.26386233269599" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-137" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" parent="M_-kv8_Bes0HBn09ROMI-134" vertex="1">
-          <mxGeometry x="25.072466367713005" width="65.107533632287" height="84.59935426008968" as="geometry" />
-        </mxCell>
-        <mxCell id="_tPynohHPtIaj-70k4FQ-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-134" vertex="1">
-          <mxGeometry x="35.26999999999998" y="-3.1000000000000227" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-138" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190" y="143.1" width="90.18" height="126.9" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-139" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-138" vertex="1">
-          <mxGeometry x="48.52735426008969" y="90.90860420650095" width="33.483874439461886" height="35.99139579349905" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-140" value="省级&lt;br&gt;中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-138" vertex="1">
-          <mxGeometry y="84.60418738049714" width="48.52735426008969" height="24.26386233269599" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-141" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" parent="M_-kv8_Bes0HBn09ROMI-138" vertex="1">
-          <mxGeometry x="25.072466367713005" width="65.107533632287" height="84.59935426008968" as="geometry" />
-        </mxCell>
-        <mxCell id="_tPynohHPtIaj-70k4FQ-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-138" vertex="1">
-          <mxGeometry x="30.17999999999998" y="6.900000000000006" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-150" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="M_-kv8_Bes0HBn09ROMI-161" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint as="sourcePoint" />
-            <mxPoint x="200" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-156" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="M_-kv8_Bes0HBn09ROMI-86" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="70" as="sourcePoint" />
-            <mxPoint x="490" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-158" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="M_-kv8_Bes0HBn09ROMI-86" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="360" as="sourcePoint" />
-            <mxPoint x="480" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="360" />
-              <mxPoint x="395" y="360" />
-              <mxPoint x="395" y="201" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-160" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;省级节点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220.18" y="-30" width="60" height="30" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-160" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;省级节点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="588.05" y="247.11" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;中心站节点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-29.999999999999986" y="-65" width="78.02" height="30" as="geometry" />
+          <mxGeometry x="431.5" y="240.00000000000006" width="78.02" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-210" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-80" y="-15" width="109.99999999999997" height="150" as="geometry" />
+        <mxCell id="KuncbpI7oyiGXDuoJqxN-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.23" y="611.76" as="sourcePoint" />
+            <mxPoint x="319.23" y="561.76" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-161" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="M_-kv8_Bes0HBn09ROMI-210" vertex="1">
-          <mxGeometry width="94.74" height="150" as="geometry" />
+        <mxCell id="nhHn-jy5yigwTZyhT2hq-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="821.28" y="433.32" width="75.45" height="51.2" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-109" value="" style="group" parent="M_-kv8_Bes0HBn09ROMI-210" vertex="1" connectable="0">
-          <mxGeometry x="11.052999999999999" y="7.894736842105264" width="59.96932875392672" height="63.71398305084746" as="geometry" />
+        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="778.33" y="277.11" width="41.43" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="777.39" y="628.68" width="42.37" height="57.11" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-161" target="t0VG4i905X1T4OPvXWwB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-161" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="262.11" width="94.74" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-109" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="431.053" y="270.0047368421053" width="59.96932875392672" height="63.71398305084746" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-109" vertex="1">
           <mxGeometry x="39.45350575916233" y="41.029438001784115" width="19.858264565445022" height="22.684545049063342" as="geometry" />
@@ -861,10 +746,10 @@
         <mxCell id="M_-kv8_Bes0HBn09ROMI-87" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="M_-kv8_Bes0HBn09ROMI-109" vertex="1">
           <mxGeometry x="18.937682764397906" width="41.029438001784136" height="41.029438001784136" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-110" value="" style="group" parent="M_-kv8_Bes0HBn09ROMI-210" vertex="1" connectable="0">
-          <mxGeometry x="11.052999999999999" y="77.26341807909606" width="59.96932875392672" height="63.71398305084746" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-110" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="431.053" y="339.37341807909604" width="59.96932875392672" height="63.71398305084746" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-111" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-110" vertex="1">
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-111" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="M_-kv8_Bes0HBn09ROMI-110" vertex="1">
           <mxGeometry x="39.45350575916233" y="41.029438001784115" width="19.858264565445022" height="22.684545049063342" as="geometry" />
         </mxCell>
         <mxCell id="M_-kv8_Bes0HBn09ROMI-112" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-110" vertex="1">
@@ -873,123 +758,206 @@
         <mxCell id="M_-kv8_Bes0HBn09ROMI-113" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="M_-kv8_Bes0HBn09ROMI-110" vertex="1">
           <mxGeometry x="18.937682764397906" width="41.029438001784136" height="41.029438001784136" as="geometry" />
         </mxCell>
-        <mxCell id="_tPynohHPtIaj-70k4FQ-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-210" vertex="1">
-          <mxGeometry x="49.99999999999997" y="75" width="60" height="30" as="geometry" />
+        <mxCell id="_tPynohHPtIaj-70k4FQ-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="570.3799999999999" y="373.09000000000003" width="95.35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-211" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-80" y="143.1" width="109.99999999999997" height="150" as="geometry" />
+        <mxCell id="t0VG4i905X1T4OPvXWwB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-224" target="t0VG4i905X1T4OPvXWwB-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-212" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="M_-kv8_Bes0HBn09ROMI-211" vertex="1">
-          <mxGeometry width="94.74" height="150" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-224" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="577.11" width="94.74" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-213" value="" style="group" parent="M_-kv8_Bes0HBn09ROMI-211" vertex="1" connectable="0">
-          <mxGeometry x="11.052999999999999" y="7.894736842105264" width="59.96932875392672" height="63.71398305084746" as="geometry" />
+        <mxCell id="_tPynohHPtIaj-70k4FQ-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="571.2" y="685.9300000000001" width="94.53" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-214" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-213" vertex="1">
-          <mxGeometry x="39.45350575916233" y="41.029438001784115" width="19.858264565445022" height="22.684545049063342" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-226" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="470.50650575916234" y="626.0341748438894" width="19.858264565445022" height="22.684545049063342" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-215" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-213" vertex="1">
-          <mxGeometry y="36.689785905441546" width="39.45350575916229" height="19.7256913470116" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-227" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="431.053" y="621.6945227475469" width="39.45350575916229" height="19.7256913470116" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-216" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="M_-kv8_Bes0HBn09ROMI-213" vertex="1">
-          <mxGeometry x="18.937682764397906" width="41.029438001784136" height="41.029438001784136" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-228" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;container=0;" parent="1" vertex="1">
+          <mxGeometry x="449.9906827643979" y="585.0047368421053" width="41.029438001784136" height="41.029438001784136" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-217" value="" style="group" parent="M_-kv8_Bes0HBn09ROMI-211" vertex="1" connectable="0">
-          <mxGeometry x="11.052999999999999" y="77.26341807909606" width="59.96932875392672" height="63.71398305084746" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-230" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="470.50650575916234" y="695.4028560808802" width="19.858264565445022" height="22.684545049063342" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-218" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-217" vertex="1">
-          <mxGeometry x="39.45350575916233" y="41.029438001784115" width="19.858264565445022" height="22.684545049063342" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-231" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="431.053" y="691.0632039845376" width="39.45350575916229" height="19.7256913470116" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-219" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-217" vertex="1">
-          <mxGeometry y="36.689785905441546" width="39.45350575916229" height="19.7256913470116" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-232" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;container=0;" parent="1" vertex="1">
+          <mxGeometry x="449.9906827643979" y="654.373418079096" width="41.029438001784136" height="41.029438001784136" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-220" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="M_-kv8_Bes0HBn09ROMI-217" vertex="1">
-          <mxGeometry x="18.937682764397906" width="41.029438001784136" height="41.029438001784136" as="geometry" />
+        <mxCell id="t0VG4i905X1T4OPvXWwB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-212" target="t0VG4i905X1T4OPvXWwB-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_tPynohHPtIaj-70k4FQ-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-211" vertex="1">
-          <mxGeometry x="49.99999999999997" y="71.61000000000001" width="60" height="30" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-212" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="420.21000000000004" width="94.74" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-222" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="210" as="sourcePoint" />
-            <mxPoint x="200" y="210" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_tPynohHPtIaj-70k4FQ-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="571.2" y="529.0300000000001" width="94.53" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-223" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-80" y="300" width="119.99999999999997" height="150" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-214" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="470.50650575916234" y="469.1341748438894" width="19.858264565445022" height="22.684545049063342" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-224" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="M_-kv8_Bes0HBn09ROMI-223" vertex="1">
-          <mxGeometry width="94.74" height="150" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-215" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="431.053" y="464.79452274754686" width="39.45350575916229" height="19.7256913470116" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-225" value="" style="group" parent="M_-kv8_Bes0HBn09ROMI-223" vertex="1" connectable="0">
-          <mxGeometry x="11.052999999999999" y="7.894736842105264" width="59.96932875392672" height="63.71398305084746" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-216" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;container=0;" parent="1" vertex="1">
+          <mxGeometry x="449.9906827643979" y="428.1047368421053" width="41.029438001784136" height="41.029438001784136" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-226" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-225" vertex="1">
-          <mxGeometry x="39.45350575916233" y="41.029438001784115" width="19.858264565445022" height="22.684545049063342" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-218" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="470.50650575916234" y="538.5028560808802" width="19.858264565445022" height="22.684545049063342" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-227" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-225" vertex="1">
-          <mxGeometry y="36.689785905441546" width="39.45350575916229" height="19.7256913470116" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-219" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="431.053" y="534.1632039845376" width="39.45350575916229" height="19.7256913470116" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-228" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="M_-kv8_Bes0HBn09ROMI-225" vertex="1">
-          <mxGeometry x="18.937682764397906" width="41.029438001784136" height="41.029438001784136" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-220" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;container=0;" parent="1" vertex="1">
+          <mxGeometry x="449.9906827643979" y="497.47341807909606" width="41.029438001784136" height="41.029438001784136" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-229" value="" style="group" parent="M_-kv8_Bes0HBn09ROMI-223" vertex="1" connectable="0">
-          <mxGeometry x="11.052999999999999" y="77.26341807909606" width="59.96932875392672" height="63.71398305084746" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-135" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="641.4673542600898" y="489.058604206501" width="33.483874439461886" height="35.99139579349905" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-230" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="M_-kv8_Bes0HBn09ROMI-229" vertex="1">
-          <mxGeometry x="39.45350575916233" y="41.029438001784115" width="19.858264565445022" height="22.684545049063342" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-136" value="省级&lt;br&gt;中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="546.94" y="464.79418738049714" width="48.52735426008969" height="24.26386233269599" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-231" value="中心站" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="M_-kv8_Bes0HBn09ROMI-229" vertex="1">
-          <mxGeometry y="36.689785905441546" width="39.45350575916229" height="19.7256913470116" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-139" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="641.4673542600898" y="645.698604206501" width="33.483874439461886" height="35.99139579349905" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-232" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="M_-kv8_Bes0HBn09ROMI-229" vertex="1">
-          <mxGeometry x="18.937682764397906" width="41.029438001784136" height="41.029438001784136" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-140" value="省级&lt;br&gt;中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="546.94" y="624.4541873804972" width="48.52735426008969" height="24.26386233269599" as="geometry" />
         </mxCell>
-        <mxCell id="_tPynohHPtIaj-70k4FQ-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M_-kv8_Bes0HBn09ROMI-223" vertex="1">
-          <mxGeometry x="59.99999999999997" y="71.61000000000001" width="60" height="30" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-127" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="641.4673542600898" y="331.378604206501" width="33.483874439461886" height="35.99139579349905" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-234" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="350" as="sourcePoint" />
-            <mxPoint x="200" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-128" value="省级&lt;br&gt;中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="546.94" y="307.1141873804972" width="48.52735426008969" height="24.26386233269599" as="geometry" />
         </mxCell>
-        <mxCell id="M_-kv8_Bes0HBn09ROMI-235" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="201" as="sourcePoint" />
-            <mxPoint x="500" y="201" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.rack;" vertex="1" parent="1">
+          <mxGeometry x="595.47" y="307.11" width="46" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KuncbpI7oyiGXDuoJqxN-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-230.77" y="343.1" as="sourcePoint" />
-            <mxPoint x="-230.77" y="293.1" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.rack;" vertex="1" parent="1">
+          <mxGeometry x="595.47" y="464.79" width="46" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nhHn-jy5yigwTZyhT2hq-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="143.1" width="60" height="30" as="geometry" />
+        <mxCell id="t0VG4i905X1T4OPvXWwB-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.rack;" vertex="1" parent="1">
+          <mxGeometry x="595.47" y="621.69" width="46" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-1" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;一测中心&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;全国地震监测站&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运维监控管理系统&lt;/b&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
-          <mxGeometry x="499.53" y="-130" width="54.74" height="65" as="geometry" />
+        <mxCell id="t0VG4i905X1T4OPvXWwB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-236" target="t0VG4i905X1T4OPvXWwB-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-2" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;二测中心&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;数据质量分析系统&lt;/b&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
-          <mxGeometry x="507.83" y="420" width="54.74" height="65" as="geometry" />
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-51" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1372.4502545968883" y="256.00956521739135" width="32.399745403111744" height="34.82608695652174" as="geometry" />
         </mxCell>
-        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.88;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-86" target="IEIzpYGYy8FK_gN7MSgJ-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="591" y="201" />
-              <mxPoint x="591" y="-97" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-52" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="1336.4764922206505" y="233.28521739130434" width="39.44316831683169" height="70.43422913719944" as="geometry" />
         </mxCell>
-        <mxCell id="IEIzpYGYy8FK_gN7MSgJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.88;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-86" target="IEIzpYGYy8FK_gN7MSgJ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="591" y="201" />
-              <mxPoint x="591" y="453" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-53" value="流体学科中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="1370.66" y="226.98000000000002" width="60" height="23.48" as="geometry" />
+        </mxCell>
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-76" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="1324.42" y="303.72" width="106.24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="751.6999999999999" y="467.11" width="153.7500000000001" height="60.700000000000045" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-9" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#3399FF;shape=mxgraph.mscae.enterprise.server_farm" vertex="1" parent="t0VG4i905X1T4OPvXWwB-20">
+          <mxGeometry width="93.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;container=0;" vertex="1" parent="t0VG4i905X1T4OPvXWwB-20">
+          <mxGeometry x="93.74735426008988" y="24.70860420650098" width="33.483874439461886" height="35.99139579349905" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-25" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="977.9399999999999" y="278.30999999999995" width="17.87" height="18.38" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="949.9999999999999" y="254.15" width="28.71" height="51.26" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-27" value="流体学科中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="961.06" y="235.97" width="60" height="23.48" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-28" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="919.35" y="301.38" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-30" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="977.9399999999999" y="385.9099999999999" width="17.87" height="18.38" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-31" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="949.9999999999999" y="361.74999999999994" width="28.71" height="51.26" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-32" value="地电学科中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="961.06" y="343.57" width="60" height="23.48" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-33" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="918" y="404.2899999999999" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-34" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="977.9399999999999" y="491.7" width="17.87" height="18.38" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-35" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="949.9999999999999" y="467.5399999999999" width="28.71" height="51.26" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-36" value="地磁学科中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="961.06" y="449.35999999999996" width="60" height="23.48" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-37" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="919.35" y="518.8" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-38" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="977.9399999999999" y="598.96" width="17.87" height="18.38" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-39" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="949.9999999999999" y="574.8" width="28.71" height="51.26" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-40" value="形变学科中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="961.06" y="556.62" width="60" height="23.48" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-41" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="919.36" y="624.4499999999999" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-42" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="977.9399999999999" y="704.65" width="17.87" height="18.38" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-43" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="949.9999999999999" y="680.49" width="28.71" height="51.26" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-44" value="重力学科中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="961.06" y="662.31" width="60" height="23.48" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-45" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="919.35" y="731.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t0VG4i905X1T4OPvXWwB-18" target="t0VG4i905X1T4OPvXWwB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t0VG4i905X1T4OPvXWwB-18" target="t0VG4i905X1T4OPvXWwB-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t0VG4i905X1T4OPvXWwB-18" target="t0VG4i905X1T4OPvXWwB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t0VG4i905X1T4OPvXWwB-18" target="t0VG4i905X1T4OPvXWwB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t0VG4i905X1T4OPvXWwB-18" target="t0VG4i905X1T4OPvXWwB-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-54" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;二测中心&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;数据质量分析系统&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="687.11" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-57" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;一测中心&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;全国地震监测站&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运维监控管理系统&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="805.45" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="t0VG4i905X1T4OPvXWwB-9" target="IEIzpYGYy8FK_gN7MSgJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_-kv8_Bes0HBn09ROMI-18" value="国家中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="740" y="437.11000000000007" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="t0VG4i905X1T4OPvXWwB-9" target="IEIzpYGYy8FK_gN7MSgJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VG4i905X1T4OPvXWwB-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M_-kv8_Bes0HBn09ROMI-240" target="IEIzpYGYy8FK_gN7MSgJ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
