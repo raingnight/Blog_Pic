@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T01:39:53.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GIYT2dyZb3fy1gKi_MJ9" version="22.1.17" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-01-27T02:39:45.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JMmv-KK1hfOyN0jRdK2e" version="23.0.2" type="github" pages="20">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="780" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-R49sftn46QtKF7uovSq" name="第 2 页">
-    <mxGraphModel dx="220" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="-180" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,8 +201,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="msTh6u1wWNHuVcgvZzll" name="第 3 页">
-    <mxGraphModel dx="1420" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="msTh6u1wWNHuVcgvZzll" name="数据流">
+    <mxGraphModel dx="1020" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -496,7 +496,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ujNTbE77ra3ghFTd5D3" name="第 4 页">
-    <mxGraphModel dx="1420" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,8 +520,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="WjEL-hk-y182BR9-wsdD" name="第 5 页">
-    <mxGraphModel dx="1420" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="WjEL-hk-y182BR9-wsdD" name="机器学习">
+    <mxGraphModel dx="1020" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,8 +612,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JXAFaDwSCAhSeQYrrbCE" name="第 6 页">
-    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="JXAFaDwSCAhSeQYrrbCE" name="数据交换 现状">
+    <mxGraphModel dx="1020" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -875,29 +875,29 @@
         <mxCell id="t0VG4i905X1T4OPvXWwB-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="M_-kv8_Bes0HBn09ROMI-240" target="IEIzpYGYy8FK_gN7MSgJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHjCvXRzql0XdAtLRjb9-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="nHjCvXRzql0XdAtLRjb9-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="447.44" y="267.01" width="69.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHjCvXRzql0XdAtLRjb9-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="nHjCvXRzql0XdAtLRjb9-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="447.44" y="337.37" width="69.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHjCvXRzql0XdAtLRjb9-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="nHjCvXRzql0XdAtLRjb9-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="447.44" y="419.68" width="69.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHjCvXRzql0XdAtLRjb9-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="nHjCvXRzql0XdAtLRjb9-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="447.44" y="494.71999999999997" width="69.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHjCvXRzql0XdAtLRjb9-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="nHjCvXRzql0XdAtLRjb9-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="447.44" y="580.42" width="69.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHjCvXRzql0XdAtLRjb9-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="nHjCvXRzql0XdAtLRjb9-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地球物理台网数据管理系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="447.44" y="657.1099999999999" width="69.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ssLhmgIg9QOvyFG-HDbA" name="第 7 页">
-    <mxGraphModel dx="780" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="ssLhmgIg9QOvyFG-HDbA" name="数据交换 未来">
+    <mxGraphModel dx="1020" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1096,8 +1096,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="GSjXoiWxb0Aj9EZyGenK" name="第 8 页">
-    <mxGraphModel dx="1420" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="GSjXoiWxb0Aj9EZyGenK" name="存储设计">
+    <mxGraphModel dx="1020" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1246,7 +1246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4WwItXqh5yntds5MEO9M" name="第 9 页">
-    <mxGraphModel dx="1420" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1361,7 +1361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FjfyuH6K4-7FDaricDhv" name="第 10 页">
-    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1457,7 +1457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EfuinrPyU7nsNkimrn7B" name="第 11 页">
-    <mxGraphModel dx="1420" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1831,7 +1831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U1FuxPylLbVoql_udASM" name="第 12 页">
-    <mxGraphModel dx="1420" dy="2686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="2406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2100,7 +2100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PAV6QYH9Hf2v_7BtUG0u" name="第 13 页">
-    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2332,7 +2332,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yxTjExiAPDKCRtFXudZe" name="第 14 页">
-    <mxGraphModel dx="780" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2397,7 +2397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rSehn5S9y9RZ98IL6akL" name="第 15 页">
-    <mxGraphModel dx="1980" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2806,8 +2806,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HWu9zT2wdX2fMj_l2mId" name="第 16 页">
-    <mxGraphModel dx="1420" dy="2686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="HWu9zT2wdX2fMj_l2mId" name="地球物理核心 业务软件 架构">
+    <mxGraphModel dx="1020" dy="2406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3081,8 +3081,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="C57L_PkMI0ZhtXkCCwS0" name="第 17 页">
-    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="C57L_PkMI0ZhtXkCCwS0" name="开放API设计">
+    <mxGraphModel dx="1020" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3195,7 +3195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VbmGLgRAv31-rExD8BdH" name="第 18 页">
-    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3405,8 +3405,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="bhLh3oQNzqQCD9EYxEfT" name="第 19 页">
-    <mxGraphModel dx="1671" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram id="bhLh3oQNzqQCD9EYxEfT" name="模块化设计">
+    <mxGraphModel dx="1457" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3961,17 +3961,17 @@
             <mxGeometry x="1440.5" y="230" width="140" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="qTz_MNhvLaSpJ0v3C_px-6" value="机器学习自动预处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="qTz_MNhvLaSpJ0v3C_px-6" value="机器学习自动预处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1240" y="410" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qTz_MNhvLaSpJ0v3C_px-7" value="人工手动预处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="qTz_MNhvLaSpJ0v3C_px-7" value="人工手动预处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1240" y="440" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qTz_MNhvLaSpJ0v3C_px-8" value="数据预处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qTz_MNhvLaSpJ0v3C_px-8" value="数据预处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1280" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;其他系统&lt;/div&gt;&lt;/div&gt;" tags="Background" id="b_14kqi7-rTbkTuN3gLU-1">
-          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=82;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#000000;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=13;flipH=1;" vertex="1" parent="1">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=82;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#000000;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=13;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="1589.5" y="230" width="140" height="50" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3979,7 +3979,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BSySthLX0EWAIhzZo9_1" name="第 20 页">
-    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
